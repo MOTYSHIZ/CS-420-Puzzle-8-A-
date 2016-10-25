@@ -1,0 +1,329 @@
+"C:\Program Files\Java\jdk1.8.0_102\bin\java" -Didea.launcher.port=7540 "-Didea.launcher.bin.path=F:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;F:\Programming\CS-420-Puzzle-8-A-\out\production\CS420p1;F:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain puzzle8
+What would you like to do?
+1) Randomly generated puzzle.
+2) Input puzzle.
+3) Randomly generate 101 puzzles.
+4) Read 200 predefined test cases.
+2
+Please input your puzzle as a 9-character string where each character is a number between 0-8, and there are no repeated characters.
+For example: "012345678"
+153706842
+Which heuristic would you lke to use?
+1) The number of misplaced tiles.
+2) The sum of distances of the tiles from their goal positions.
+2
+Using heuristic two.
+
+Generated Puzzle: 
+1 5 3 
+7 0 6 
+8 4 2 
+Solving puzzle: 
+Move #1:
+1 5 3 
+7 0 6 
+8 4 2 
+Move #2:
+1 5 3 
+7 6 0 
+8 4 2 
+Move #3:
+1 5 3 
+7 6 2 
+8 4 0 
+Move #4:
+1 5 3 
+7 6 2 
+8 0 4 
+Move #5:
+1 5 3 
+7 6 2 
+0 8 4 
+Move #6:
+1 5 3 
+0 6 2 
+7 8 4 
+Move #7:
+1 5 3 
+6 0 2 
+7 8 4 
+Move #8:
+1 5 3 
+6 2 0 
+7 8 4 
+Move #9:
+1 5 0 
+6 2 3 
+7 8 4 
+Move #10:
+1 0 5 
+6 2 3 
+7 8 4 
+Move #11:
+1 2 5 
+6 0 3 
+7 8 4 
+Move #12:
+1 2 5 
+6 3 0 
+7 8 4 
+Move #13:
+1 2 5 
+6 3 4 
+7 8 0 
+Move #14:
+1 2 5 
+6 3 4 
+7 0 8 
+Move #15:
+1 2 5 
+6 3 4 
+0 7 8 
+Move #16:
+1 2 5 
+0 3 4 
+6 7 8 
+Move #17:
+1 2 5 
+3 0 4 
+6 7 8 
+Move #18:
+1 2 5 
+3 4 0 
+6 7 8 
+Move #19:
+1 2 0 
+3 4 5 
+6 7 8 
+Move #20:
+1 0 2 
+3 4 5 
+6 7 8 
+Move #21:
+0 1 2 
+3 4 5 
+6 7 8 
+Search Cost: 947
+Solution Depth: 20
+
+Process finished with exit code 0
+
+"C:\Program Files\Java\jdk1.8.0_102\bin\java" -Didea.launcher.port=7542 "-Didea.launcher.bin.path=F:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;F:\Programming\CS-420-Puzzle-8-A-\out\production\CS420p1;F:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain puzzle8
+What would you like to do?
+1) Randomly generated puzzle.
+2) Input puzzle.
+3) Randomly generate 101 puzzles.
+4) Read 200 predefined test cases.
+2
+Please input your puzzle as a 9-character string where each character is a number between 0-8, and there are no repeated characters.
+For example: "012345678"
+640712583
+Which heuristic would you lke to use?
+1) The number of misplaced tiles.
+2) The sum of distances of the tiles from their goal positions.
+2
+Using heuristic two.
+
+Generated Puzzle: 
+6 4 0 
+7 1 2 
+5 8 3 
+Solving puzzle: 
+Move #1:
+6 4 0 
+7 1 2 
+5 8 3 
+Move #2:
+6 0 4 
+7 1 2 
+5 8 3 
+Move #3:
+6 1 4 
+7 0 2 
+5 8 3 
+Move #4:
+6 1 4 
+7 8 2 
+5 0 3 
+Move #5:
+6 1 4 
+7 8 2 
+0 5 3 
+Move #6:
+6 1 4 
+0 8 2 
+7 5 3 
+Move #7:
+0 1 4 
+6 8 2 
+7 5 3 
+Move #8:
+1 0 4 
+6 8 2 
+7 5 3 
+Move #9:
+1 4 0 
+6 8 2 
+7 5 3 
+Move #10:
+1 4 2 
+6 8 0 
+7 5 3 
+Move #11:
+1 4 2 
+6 0 8 
+7 5 3 
+Move #12:
+1 4 2 
+6 5 8 
+7 0 3 
+Move #13:
+1 4 2 
+6 5 8 
+7 3 0 
+Move #14:
+1 4 2 
+6 5 0 
+7 3 8 
+Move #15:
+1 4 2 
+6 0 5 
+7 3 8 
+Move #16:
+1 4 2 
+6 3 5 
+7 0 8 
+Move #17:
+1 4 2 
+6 3 5 
+0 7 8 
+Move #18:
+1 4 2 
+0 3 5 
+6 7 8 
+Move #19:
+1 4 2 
+3 0 5 
+6 7 8 
+Move #20:
+1 0 2 
+3 4 5 
+6 7 8 
+Move #21:
+0 1 2 
+3 4 5 
+6 7 8 
+Search Cost: 1114
+Solution Depth: 20
+
+Process finished with exit code 0
+
+"C:\Program Files\Java\jdk1.8.0_102\bin\java" -Didea.launcher.port=7538 "-Didea.launcher.bin.path=F:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;F:\Programming\CS-420-Puzzle-8-A-\out\production\CS420p1;F:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain puzzle8
+What would you like to do?
+1) Randomly generated puzzle.
+2) Input puzzle.
+3) Randomly generate 101 puzzles.
+4) Read 200 predefined test cases.
+2
+Please input your puzzle as a 9-character string where each character is a number between 0-8, and there are no repeated characters.
+For example: "012345678"
+287106354
+Which heuristic would you lke to use?
+1) The number of misplaced tiles.
+2) The sum of distances of the tiles from their goal positions.
+2
+Using heuristic two.
+
+Generated Puzzle: 
+2 8 7 
+1 0 6 
+3 5 4 
+Solving puzzle: 
+Move #1:
+2 8 7 
+1 0 6 
+3 5 4 
+Move #2:
+2 8 7 
+1 6 0 
+3 5 4 
+Move #3:
+2 8 7 
+1 6 4 
+3 5 0 
+Move #4:
+2 8 7 
+1 6 4 
+3 0 5 
+Move #5:
+2 8 7 
+1 0 4 
+3 6 5 
+Move #6:
+2 0 7 
+1 8 4 
+3 6 5 
+Move #7:
+0 2 7 
+1 8 4 
+3 6 5 
+Move #8:
+1 2 7 
+0 8 4 
+3 6 5 
+Move #9:
+1 2 7 
+3 8 4 
+0 6 5 
+Move #10:
+1 2 7 
+3 8 4 
+6 0 5 
+Move #11:
+1 2 7 
+3 0 4 
+6 8 5 
+Move #12:
+1 2 7 
+3 4 0 
+6 8 5 
+Move #13:
+1 2 0 
+3 4 7 
+6 8 5 
+Move #14:
+1 0 2 
+3 4 7 
+6 8 5 
+Move #15:
+1 4 2 
+3 0 7 
+6 8 5 
+Move #16:
+1 4 2 
+3 7 0 
+6 8 5 
+Move #17:
+1 4 2 
+3 7 5 
+6 8 0 
+Move #18:
+1 4 2 
+3 7 5 
+6 0 8 
+Move #19:
+1 4 2 
+3 0 5 
+6 7 8 
+Move #20:
+1 0 2 
+3 4 5 
+6 7 8 
+Move #21:
+0 1 2 
+3 4 5 
+6 7 8 
+Search Cost: 1012
+Solution Depth: 20
+
+Process finished with exit code 0
