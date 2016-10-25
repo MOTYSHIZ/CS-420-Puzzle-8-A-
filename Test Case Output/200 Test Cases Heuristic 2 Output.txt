@@ -1,0 +1,14054 @@
+"C:\Program Files\Java\jdk1.8.0_102\bin\java" -Didea.launcher.port=7535 "-Didea.launcher.bin.path=F:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;F:\Programming\CS-420-Puzzle-8-A-\out\production\CS420p1;F:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 2016.2.4\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain puzzle8
+What would you like to do?
+1) Randomly generated puzzle.
+2) Input puzzle.
+3) Randomly generate 101 puzzles.
+4) Read 200 predefined test cases.
+4
+Which heuristic would you lke to use?
+1) The number of misplaced tiles.
+2) The sum of distances of the tiles from their goal positions.
+2
+Using heuristic two.
+
+Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 4 2 
+3 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+1 2 0 
+3 4 5 
+6 7 8 
+Search Cost: 6
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+4 0 5 
+6 7 8 
+Search Cost: 8
+Solution Depth: 2
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+0 7 8 
+Search Cost: 6
+Solution Depth: 2
+Average Search Cost for 200 cases in Depth 2: 7
+Average Execution Time: 0ms
+
+Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 0 
+3 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 2 0 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 0 
+3 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 0 
+3 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 0 
+3 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 0 
+3 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 2 0 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 0 
+3 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 2 0 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 2 0 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 0 
+3 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 0 
+3 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 2 0 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 3 2 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 0 
+4 5 2 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+0 4 2 
+1 3 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 0 4 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 2 0 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 2 0 
+4 1 5 
+6 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+6 8 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+4 7 5 
+0 6 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+0 7 8 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+6 7 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+1 4 2 
+3 5 8 
+6 7 0 
+Search Cost: 13
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 4 5 
+7 8 0 
+Search Cost: 11
+Solution Depth: 4
+
+Generated Puzzle: 
+3 1 2 
+6 0 5 
+7 4 8 
+Search Cost: 13
+Solution Depth: 4
+Average Search Cost for 200 cases in Depth 4: 12
+Average Execution Time: 0ms
+
+Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+0 4 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+4 7 2 
+6 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 7 4 
+0 6 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 7 4 
+6 8 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 0 1 
+6 7 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+3 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 6 5 
+7 4 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 0 5 
+4 6 8 
+Search Cost: 22
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+6 1 5 
+0 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 0 5 
+4 6 8 
+Search Cost: 22
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 0 
+3 2 4 
+6 7 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 5 
+3 2 4 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 4 
+3 5 2 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+7 8 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 5 2 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 7 5 
+4 6 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+0 3 1 
+4 5 2 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 2 5 
+1 3 4 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+7 0 5 
+3 6 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 7 4 
+6 8 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 4 2 
+1 7 5 
+3 6 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+6 0 5 
+7 3 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+3 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 5 8 
+0 6 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+7 4 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+4 2 0 
+1 3 5 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 7 5 
+4 6 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 4 
+3 5 2 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+4 2 0 
+1 3 5 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+6 7 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 0 1 
+6 7 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 6 5 
+7 4 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 0 
+3 2 4 
+6 7 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+6 1 5 
+0 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 5 2 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+3 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 5 
+3 2 4 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+6 7 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+1 0 5 
+6 7 8 
+Search Cost: 35
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 8 
+6 5 7 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 0 
+3 2 4 
+6 7 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+0 4 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+0 3 1 
+4 5 2 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 5 2 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+4 7 2 
+6 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 5 8 
+0 6 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+7 4 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 8 
+6 5 7 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 0 
+3 2 4 
+6 7 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+0 4 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 0 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+1 0 5 
+6 7 8 
+Search Cost: 35
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+6 7 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+4 7 2 
+6 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+6 3 4 
+0 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 4 
+3 0 2 
+6 7 8 
+Search Cost: 22
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+4 7 2 
+6 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+6 7 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 0 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+6 0 5 
+7 3 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+7 4 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 0 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 0 
+3 2 4 
+6 7 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 0 1 
+6 7 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 5 
+3 2 4 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+1 0 5 
+6 7 8 
+Search Cost: 35
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 2 5 
+1 3 4 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 5 2 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 5 
+3 2 4 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 7 4 
+0 6 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 3 1 
+4 5 2 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 0 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 2 5 
+1 3 4 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+6 7 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+6 0 5 
+7 3 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 7 5 
+4 6 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 0 
+3 2 4 
+6 7 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+0 3 2 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 0 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 4 2 
+1 7 5 
+3 6 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+3 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+6 1 5 
+0 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+1 0 5 
+6 7 8 
+Search Cost: 35
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 0 5 
+4 6 8 
+Search Cost: 22
+Solution Depth: 6
+
+Generated Puzzle: 
+0 3 1 
+4 5 2 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 4 
+3 0 2 
+6 7 8 
+Search Cost: 22
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 7 5 
+4 6 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 0 1 
+6 7 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 0 5 
+4 6 8 
+Search Cost: 22
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 8 
+6 5 7 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+7 0 5 
+3 6 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 3 2 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+3 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+6 7 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+3 0 8 
+6 5 7 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 6 5 
+7 4 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 2 5 
+1 3 4 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+7 4 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 0 1 
+6 7 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 4 2 
+1 7 5 
+3 6 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+7 8 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+1 0 5 
+6 7 8 
+Search Cost: 35
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 7 4 
+6 8 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 0 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+4 2 0 
+1 3 5 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 5 
+3 2 4 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+0 4 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+4 2 0 
+1 3 5 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+6 0 5 
+7 3 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 6 5 
+7 4 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 5 
+3 2 4 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 7 4 
+6 8 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+0 4 8 
+Search Cost: 20
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+6 3 4 
+0 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 5 
+3 2 4 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+0 4 2 
+1 7 5 
+3 6 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 6 5 
+7 4 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 7 4 
+0 6 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 5 2 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 8 
+6 5 7 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+4 3 2 
+6 1 5 
+0 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+4 7 2 
+6 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 3 1 
+4 5 2 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 7 4 
+6 8 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 2 5 
+1 3 4 
+6 7 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 3 2 
+6 1 5 
+7 4 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 0 1 
+6 7 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 5 
+3 2 4 
+6 7 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+6 7 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 7 5 
+4 6 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+6 0 5 
+7 3 8 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 0 
+3 7 2 
+6 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+6 3 5 
+7 8 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 0 8 
+6 4 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 7 5 
+4 6 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 6 5 
+7 4 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+6 7 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+7 8 5 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+0 1 2 
+3 6 5 
+7 4 8 
+Search Cost: 21
+Solution Depth: 6
+
+Generated Puzzle: 
+1 2 5 
+3 4 8 
+0 6 7 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+7 4 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 8 
+6 5 7 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+7 8 5 
+Search Cost: 16
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 0 8 
+6 5 7 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+7 4 0 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+0 4 2 
+1 7 5 
+3 6 8 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 4 2 
+3 0 7 
+6 8 5 
+Search Cost: 25
+Solution Depth: 6
+
+Generated Puzzle: 
+3 1 2 
+4 5 8 
+0 6 7 
+Search Cost: 18
+Solution Depth: 6
+
+Generated Puzzle: 
+1 5 0 
+3 2 4 
+6 7 8 
+Search Cost: 20
+Solution Depth: 6
+Average Search Cost for 200 cases in Depth 6: 19
+Average Execution Time: 0ms
+
+Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+4 7 2 
+6 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 4 1 
+6 0 2 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 2 5 
+1 4 8 
+3 6 7 
+Search Cost: 21
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+4 7 1 
+6 8 0 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+7 5 8 
+4 6 0 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+4 7 2 
+6 8 0 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 0 8 
+7 5 4 
+Search Cost: 32
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+4 7 2 
+6 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+4 7 2 
+6 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 4 8 
+0 5 7 
+Search Cost: 38
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 0 
+7 4 5 
+3 6 8 
+Search Cost: 38
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+7 5 8 
+4 6 0 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+4 0 8 
+6 1 7 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 0 
+3 8 2 
+6 5 7 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+5 0 8 
+4 6 7 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 4 
+3 7 2 
+6 8 5 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 0 
+7 1 5 
+4 6 8 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+6 0 2 
+7 4 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+1 7 2 
+3 0 5 
+4 6 8 
+Search Cost: 43
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 5 
+2 0 4 
+6 7 8 
+Search Cost: 43
+Solution Depth: 8
+
+Generated Puzzle: 
+1 7 2 
+3 0 5 
+4 6 8 
+Search Cost: 43
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 2 
+6 0 5 
+7 1 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 8 4 
+7 5 0 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 6 5 
+7 3 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 0 8 
+7 5 4 
+Search Cost: 32
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 0 8 
+7 5 4 
+Search Cost: 32
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 2 
+6 1 5 
+7 8 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+6 5 2 
+7 4 8 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+4 7 1 
+6 8 0 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+4 0 8 
+6 1 7 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+6 3 8 
+0 4 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 7 4 
+3 0 2 
+6 8 5 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+6 3 4 
+7 8 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+4 7 2 
+6 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+4 7 1 
+0 6 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 2 
+6 1 5 
+7 8 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+4 8 0 
+Search Cost: 46
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+6 3 8 
+0 4 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+7 5 8 
+4 6 0 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 6 5 
+7 3 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 0 
+3 6 5 
+7 4 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+4 8 0 
+Search Cost: 46
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 0 
+4 1 8 
+6 5 7 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 0 8 
+7 5 4 
+Search Cost: 32
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 0 
+1 5 2 
+6 7 8 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+6 0 1 
+7 4 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 2 5 
+1 4 8 
+3 6 7 
+Search Cost: 21
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+7 0 4 
+3 6 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+6 1 8 
+7 4 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 0 
+4 8 2 
+6 5 7 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 1 
+5 0 2 
+6 7 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+4 1 8 
+0 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 2 
+6 1 4 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 5 0 
+3 2 8 
+6 4 7 
+Search Cost: 25
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 0 
+3 7 5 
+6 8 4 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 5 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 5 
+4 2 1 
+6 7 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 0 
+1 5 2 
+6 7 8 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 3 7 
+6 8 5 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+4 8 7 
+6 5 0 
+Search Cost: 57
+Solution Depth: 8
+
+Generated Puzzle: 
+0 2 5 
+1 4 8 
+3 6 7 
+Search Cost: 21
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+5 0 8 
+4 6 7 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+4 2 5 
+1 3 8 
+6 7 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 0 
+3 6 5 
+7 4 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+6 4 2 
+0 7 8 
+Search Cost: 38
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+4 7 2 
+0 6 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 2 
+6 0 3 
+7 8 5 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+4 7 2 
+6 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+7 0 4 
+3 6 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 5 
+6 2 4 
+0 7 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+4 7 1 
+0 6 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 0 
+7 5 2 
+3 6 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 2 
+1 7 5 
+6 8 0 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+6 0 4 
+7 3 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 2 
+7 1 5 
+4 6 8 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 5 
+2 0 4 
+6 7 8 
+Search Cost: 43
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+6 3 4 
+7 8 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+6 3 2 
+1 0 5 
+7 4 8 
+Search Cost: 33
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+0 7 4 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 4 
+6 5 2 
+0 7 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+4 2 5 
+1 0 3 
+6 7 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 4 1 
+6 0 2 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 4 1 
+6 0 2 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 5 
+3 2 8 
+6 4 7 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 5 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 2 
+7 6 5 
+0 3 8 
+Search Cost: 47
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 2 
+3 5 8 
+4 6 7 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+4 7 2 
+0 6 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 8 4 
+7 5 0 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+4 2 0 
+1 7 5 
+3 6 8 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 8 4 
+0 7 5 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+0 2 5 
+1 7 4 
+3 6 8 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+6 0 2 
+7 4 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 2 
+7 4 5 
+3 6 8 
+Search Cost: 45
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+4 7 2 
+6 8 0 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 7 1 
+4 0 2 
+6 8 5 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 4 1 
+6 0 2 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 5 
+3 2 8 
+6 4 7 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+6 3 2 
+1 0 5 
+7 4 8 
+Search Cost: 33
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+6 0 4 
+7 3 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 2 5 
+1 3 8 
+6 4 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 2 
+3 5 8 
+4 6 7 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 0 
+7 5 2 
+4 6 8 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+3 4 1 
+6 0 2 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 0 
+3 7 5 
+6 8 4 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 2 
+6 3 7 
+0 8 5 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+6 4 2 
+7 8 5 
+Search Cost: 21
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 8 4 
+0 7 5 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+4 8 0 
+Search Cost: 46
+Solution Depth: 8
+
+Generated Puzzle: 
+1 5 4 
+3 2 8 
+6 7 0 
+Search Cost: 46
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 0 
+6 1 4 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+6 3 2 
+7 1 5 
+0 4 8 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 6 2 
+3 0 5 
+7 4 8 
+Search Cost: 43
+Solution Depth: 8
+
+Generated Puzzle: 
+0 5 4 
+1 3 2 
+6 7 8 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 2 
+3 6 4 
+7 8 5 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+6 4 2 
+0 7 8 
+Search Cost: 38
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 0 
+3 7 5 
+4 6 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 7 2 
+3 0 5 
+4 6 8 
+Search Cost: 43
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+6 1 8 
+7 4 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+4 0 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+6 0 2 
+7 4 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 4 
+3 7 2 
+6 8 5 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+6 4 2 
+7 8 5 
+Search Cost: 21
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 0 
+1 5 2 
+6 7 8 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+4 2 5 
+1 3 8 
+6 7 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 2 
+5 0 8 
+3 6 7 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+6 3 2 
+1 0 5 
+7 4 8 
+Search Cost: 33
+Solution Depth: 8
+
+Generated Puzzle: 
+6 3 2 
+1 0 5 
+7 4 8 
+Search Cost: 33
+Solution Depth: 8
+
+Generated Puzzle: 
+6 3 2 
+1 0 5 
+7 4 8 
+Search Cost: 33
+Solution Depth: 8
+
+Generated Puzzle: 
+2 3 5 
+1 0 4 
+6 7 8 
+Search Cost: 33
+Solution Depth: 8
+
+Generated Puzzle: 
+3 7 1 
+4 0 2 
+6 8 5 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 0 
+6 3 2 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 2 
+1 5 8 
+6 7 0 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 5 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+4 2 5 
+1 0 3 
+6 7 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 1 
+5 0 2 
+6 7 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 2 
+3 6 4 
+7 8 5 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+7 0 4 
+3 6 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+5 0 8 
+4 6 7 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 1 
+6 5 2 
+0 7 8 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+6 5 2 
+7 4 8 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+4 0 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+6 0 1 
+7 4 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 3 8 
+6 5 7 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 1 
+5 0 2 
+6 7 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+4 7 2 
+6 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 5 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+4 2 5 
+1 0 3 
+6 7 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 5 4 
+3 2 8 
+6 7 0 
+Search Cost: 46
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 5 
+6 1 8 
+7 4 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+0 7 4 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 4 
+6 5 2 
+0 7 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 8 4 
+0 7 5 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 8 4 
+7 5 0 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 7 1 
+4 0 2 
+6 8 5 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 2 
+5 0 8 
+3 6 7 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+0 2 5 
+1 7 4 
+3 6 8 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+7 6 5 
+4 8 0 
+Search Cost: 46
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 6 5 
+7 3 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 6 5 
+7 3 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+4 0 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 2 
+6 0 5 
+7 1 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+6 3 2 
+1 0 5 
+7 4 8 
+Search Cost: 33
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+6 4 2 
+7 8 5 
+Search Cost: 21
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+4 0 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 2 
+6 4 5 
+7 3 8 
+Search Cost: 44
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+7 6 4 
+0 8 5 
+Search Cost: 25
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+4 8 7 
+6 5 0 
+Search Cost: 57
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 5 
+2 0 4 
+6 7 8 
+Search Cost: 43
+Solution Depth: 8
+
+Generated Puzzle: 
+3 2 0 
+6 1 4 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 5 
+3 2 8 
+6 4 7 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 0 
+7 5 2 
+3 6 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+3 4 1 
+6 0 2 
+7 8 5 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 4 
+3 7 2 
+6 8 5 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+0 7 4 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+4 0 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+4 2 5 
+1 3 8 
+6 7 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 0 
+3 8 5 
+6 4 7 
+Search Cost: 40
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 2 
+6 5 8 
+0 7 4 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 2 
+3 4 8 
+6 5 7 
+Search Cost: 44
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 0 
+4 2 1 
+6 7 8 
+Search Cost: 50
+Solution Depth: 8
+
+Generated Puzzle: 
+1 7 4 
+3 0 2 
+6 8 5 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+0 4 2 
+1 5 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+4 2 5 
+1 0 3 
+6 7 8 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+0 2 5 
+1 4 8 
+3 6 7 
+Search Cost: 21
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 1 
+4 7 2 
+6 8 0 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 5 
+3 2 8 
+6 4 7 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+7 0 4 
+3 6 8 
+Search Cost: 35
+Solution Depth: 8
+
+Generated Puzzle: 
+0 1 5 
+3 2 8 
+6 4 7 
+Search Cost: 26
+Solution Depth: 8
+
+Generated Puzzle: 
+4 3 2 
+6 1 5 
+7 8 0 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+1 4 2 
+6 0 3 
+7 8 5 
+Search Cost: 30
+Solution Depth: 8
+
+Generated Puzzle: 
+1 2 5 
+4 0 8 
+3 6 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 5 0 
+4 2 1 
+6 7 8 
+Search Cost: 50
+Solution Depth: 8
+
+Generated Puzzle: 
+6 3 2 
+7 1 5 
+0 4 8 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+0 3 1 
+6 4 2 
+7 8 5 
+Search Cost: 21
+Solution Depth: 8
+
+Generated Puzzle: 
+2 3 5 
+1 0 4 
+6 7 8 
+Search Cost: 33
+Solution Depth: 8
+
+Generated Puzzle: 
+1 7 2 
+3 0 5 
+4 6 8 
+Search Cost: 43
+Solution Depth: 8
+
+Generated Puzzle: 
+0 2 5 
+1 3 8 
+6 4 7 
+Search Cost: 23
+Solution Depth: 8
+
+Generated Puzzle: 
+3 1 0 
+7 5 2 
+4 6 8 
+Search Cost: 27
+Solution Depth: 8
+
+Generated Puzzle: 
+1 7 2 
+3 0 5 
+4 6 8 
+Search Cost: 43
+Solution Depth: 8
+Average Search Cost for 200 cases in Depth 8: 30
+Average Execution Time: 0ms
+
+Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 0 4 
+7 8 5 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 2 
+7 0 5 
+1 6 8 
+Search Cost: 57
+Solution Depth: 10
+
+Generated Puzzle: 
+1 8 2 
+3 0 5 
+6 4 7 
+Search Cost: 83
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 0 
+6 3 5 
+7 1 8 
+Search Cost: 50
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 4 1 
+7 8 0 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 5 
+6 2 1 
+0 7 8 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+0 2 5 
+3 4 8 
+6 1 7 
+Search Cost: 51
+Solution Depth: 10
+
+Generated Puzzle: 
+6 3 2 
+1 5 8 
+7 4 0 
+Search Cost: 38
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 0 
+6 8 2 
+7 5 4 
+Search Cost: 56
+Solution Depth: 10
+
+Generated Puzzle: 
+0 4 2 
+1 8 7 
+3 6 5 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 1 
+7 0 2 
+6 8 5 
+Search Cost: 45
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+5 2 8 
+6 7 0 
+Search Cost: 63
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+6 0 3 
+7 8 4 
+Search Cost: 37
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 7 3 
+6 8 0 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+3 7 1 
+4 8 2 
+0 6 5 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+0 7 1 
+3 4 2 
+6 8 5 
+Search Cost: 59
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 0 8 
+6 3 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+3 5 1 
+4 0 7 
+6 8 2 
+Search Cost: 47
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 4 5 
+7 8 0 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+6 3 2 
+7 1 4 
+0 8 5 
+Search Cost: 28
+Solution Depth: 10
+
+Generated Puzzle: 
+7 3 2 
+4 1 5 
+0 6 8 
+Search Cost: 54
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 2 
+6 0 7 
+8 4 5 
+Search Cost: 71
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 5 
+6 2 8 
+0 4 7 
+Search Cost: 56
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+4 8 7 
+6 1 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 5 8 
+7 4 0 
+Search Cost: 52
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 2 
+6 1 7 
+0 8 5 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+0 3 5 
+2 1 4 
+6 7 8 
+Search Cost: 59
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 2 
+3 7 5 
+6 8 4 
+Search Cost: 82
+Solution Depth: 10
+
+Generated Puzzle: 
+0 2 5 
+1 3 7 
+6 8 4 
+Search Cost: 37
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+5 7 2 
+0 6 8 
+Search Cost: 52
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 2 
+5 0 8 
+6 7 4 
+Search Cost: 94
+Solution Depth: 10
+
+Generated Puzzle: 
+6 3 2 
+1 0 4 
+7 8 5 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 2 
+3 5 8 
+6 7 4 
+Search Cost: 82
+Solution Depth: 10
+
+Generated Puzzle: 
+1 4 2 
+6 8 3 
+7 5 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 0 4 
+7 8 5 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 0 8 
+6 3 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+7 3 2 
+4 1 5 
+0 6 8 
+Search Cost: 54
+Solution Depth: 10
+
+Generated Puzzle: 
+3 5 1 
+7 0 2 
+4 6 8 
+Search Cost: 68
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 4 5 
+7 8 0 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 4 5 
+7 8 0 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+3 4 0 
+6 2 1 
+7 8 5 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+3 4 0 
+6 2 1 
+7 8 5 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 4 
+7 0 2 
+3 6 8 
+Search Cost: 68
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 7 
+3 4 5 
+6 8 0 
+Search Cost: 71
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 7 
+3 0 4 
+6 8 5 
+Search Cost: 61
+Solution Depth: 10
+
+Generated Puzzle: 
+0 7 2 
+4 1 5 
+3 6 8 
+Search Cost: 80
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 4 
+6 0 1 
+7 8 5 
+Search Cost: 42
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+4 0 7 
+6 8 1 
+Search Cost: 47
+Solution Depth: 10
+
+Generated Puzzle: 
+3 5 1 
+4 2 8 
+0 6 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+0 2 5 
+3 7 1 
+4 6 8 
+Search Cost: 38
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 0 
+3 2 7 
+6 8 4 
+Search Cost: 39
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+7 6 4 
+0 3 8 
+Search Cost: 67
+Solution Depth: 10
+
+Generated Puzzle: 
+4 7 2 
+1 5 8 
+3 6 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+2 5 4 
+1 3 8 
+6 7 0 
+Search Cost: 28
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 5 
+6 2 8 
+0 4 7 
+Search Cost: 56
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 0 
+4 2 8 
+3 6 7 
+Search Cost: 30
+Solution Depth: 10
+
+Generated Puzzle: 
+1 4 2 
+7 0 8 
+3 5 6 
+Search Cost: 47
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+5 7 2 
+6 8 0 
+Search Cost: 52
+Solution Depth: 10
+
+Generated Puzzle: 
+3 4 1 
+6 2 5 
+7 8 0 
+Search Cost: 65
+Solution Depth: 10
+
+Generated Puzzle: 
+0 2 5 
+1 6 4 
+7 3 8 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+4 5 2 
+1 0 8 
+3 6 7 
+Search Cost: 45
+Solution Depth: 10
+
+Generated Puzzle: 
+1 7 2 
+3 6 5 
+4 8 0 
+Search Cost: 63
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+1 0 8 
+4 6 7 
+Search Cost: 32
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+5 7 2 
+0 6 8 
+Search Cost: 52
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 0 8 
+6 3 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+3 0 6 
+7 4 8 
+Search Cost: 69
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 0 
+6 2 4 
+7 3 8 
+Search Cost: 42
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+7 0 2 
+6 8 5 
+Search Cost: 55
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 1 8 
+0 7 4 
+Search Cost: 44
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+4 6 8 
+3 7 0 
+Search Cost: 65
+Solution Depth: 10
+
+Generated Puzzle: 
+6 3 1 
+4 0 2 
+7 8 5 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 1 
+5 7 2 
+6 8 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+1 7 2 
+3 5 8 
+4 6 0 
+Search Cost: 49
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 0 
+7 6 2 
+4 8 5 
+Search Cost: 51
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 0 
+3 6 4 
+7 8 5 
+Search Cost: 56
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 0 
+6 8 2 
+7 5 4 
+Search Cost: 56
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+1 0 8 
+4 6 7 
+Search Cost: 32
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+7 3 5 
+0 4 8 
+Search Cost: 53
+Solution Depth: 10
+
+Generated Puzzle: 
+2 7 5 
+1 0 4 
+3 6 8 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+7 6 4 
+0 3 8 
+Search Cost: 67
+Solution Depth: 10
+
+Generated Puzzle: 
+1 7 4 
+3 8 2 
+0 6 5 
+Search Cost: 32
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 1 
+6 7 2 
+0 8 5 
+Search Cost: 28
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 0 8 
+7 1 4 
+Search Cost: 37
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 1 
+5 2 8 
+6 7 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+1 3 4 
+6 0 2 
+7 8 5 
+Search Cost: 32
+Solution Depth: 10
+
+Generated Puzzle: 
+2 5 0 
+1 4 8 
+3 6 7 
+Search Cost: 26
+Solution Depth: 10
+
+Generated Puzzle: 
+6 3 1 
+7 4 2 
+0 8 5 
+Search Cost: 26
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 8 
+3 2 7 
+6 4 0 
+Search Cost: 44
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 0 8 
+6 3 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+4 8 7 
+3 6 0 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+2 4 5 
+1 0 8 
+3 6 7 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 0 7 
+3 6 8 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 0 
+5 2 4 
+6 7 8 
+Search Cost: 74
+Solution Depth: 10
+
+Generated Puzzle: 
+5 1 0 
+3 4 2 
+6 7 8 
+Search Cost: 92
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+5 2 8 
+6 7 0 
+Search Cost: 63
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 4 
+7 5 2 
+3 6 8 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 1 8 
+0 7 4 
+Search Cost: 44
+Solution Depth: 10
+
+Generated Puzzle: 
+3 5 0 
+6 2 1 
+7 4 8 
+Search Cost: 74
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 5 
+4 2 8 
+3 6 7 
+Search Cost: 47
+Solution Depth: 10
+
+Generated Puzzle: 
+6 3 1 
+7 5 2 
+0 4 8 
+Search Cost: 28
+Solution Depth: 10
+
+Generated Puzzle: 
+7 1 2 
+4 0 5 
+3 6 8 
+Search Cost: 90
+Solution Depth: 10
+
+Generated Puzzle: 
+0 3 4 
+5 1 2 
+6 7 8 
+Search Cost: 62
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 2 
+5 0 8 
+6 7 4 
+Search Cost: 94
+Solution Depth: 10
+
+Generated Puzzle: 
+0 6 2 
+1 3 5 
+7 4 8 
+Search Cost: 59
+Solution Depth: 10
+
+Generated Puzzle: 
+0 4 1 
+3 6 2 
+7 8 5 
+Search Cost: 47
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 0 
+1 3 8 
+6 5 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+6 4 8 
+7 3 0 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+0 4 3 
+1 5 2 
+6 7 8 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 4 
+6 0 2 
+7 3 8 
+Search Cost: 68
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+3 0 6 
+7 4 8 
+Search Cost: 69
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 0 
+3 5 8 
+4 6 7 
+Search Cost: 39
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 4 
+6 3 2 
+7 8 5 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+3 8 7 
+0 6 4 
+Search Cost: 62
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+1 0 8 
+4 6 7 
+Search Cost: 32
+Solution Depth: 10
+
+Generated Puzzle: 
+1 7 2 
+3 6 5 
+4 8 0 
+Search Cost: 63
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 0 
+1 3 7 
+6 8 5 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 4 
+3 0 8 
+6 2 7 
+Search Cost: 60
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 0 
+1 7 2 
+6 8 5 
+Search Cost: 45
+Solution Depth: 10
+
+Generated Puzzle: 
+4 7 2 
+1 5 8 
+3 6 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 8 
+4 1 7 
+6 5 0 
+Search Cost: 38
+Solution Depth: 10
+
+Generated Puzzle: 
+6 3 2 
+1 0 4 
+7 8 5 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 7 8 
+3 6 0 
+Search Cost: 28
+Solution Depth: 10
+
+Generated Puzzle: 
+5 1 0 
+3 4 2 
+6 7 8 
+Search Cost: 92
+Solution Depth: 10
+
+Generated Puzzle: 
+0 4 3 
+1 5 2 
+6 7 8 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 5 
+4 2 8 
+3 6 7 
+Search Cost: 47
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 4 8 
+0 1 7 
+Search Cost: 48
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+4 8 7 
+3 6 0 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 2 
+1 0 8 
+6 5 7 
+Search Cost: 74
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 8 
+3 4 7 
+6 5 0 
+Search Cost: 63
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 5 
+7 2 4 
+3 6 8 
+Search Cost: 48
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 2 
+5 0 8 
+6 7 4 
+Search Cost: 94
+Solution Depth: 10
+
+Generated Puzzle: 
+4 7 2 
+1 6 5 
+3 8 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+1 4 2 
+7 6 3 
+0 8 5 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 1 
+7 0 2 
+6 8 5 
+Search Cost: 45
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 4 
+6 0 2 
+7 3 8 
+Search Cost: 68
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 8 
+3 2 7 
+6 4 0 
+Search Cost: 44
+Solution Depth: 10
+
+Generated Puzzle: 
+0 2 5 
+1 3 7 
+6 8 4 
+Search Cost: 37
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+1 0 8 
+4 6 7 
+Search Cost: 32
+Solution Depth: 10
+
+Generated Puzzle: 
+1 7 0 
+3 2 4 
+6 8 5 
+Search Cost: 61
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+4 6 8 
+3 7 0 
+Search Cost: 65
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 4 
+6 0 2 
+7 3 8 
+Search Cost: 68
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 4 8 
+0 1 7 
+Search Cost: 48
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 5 
+3 2 7 
+6 8 4 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 4 5 
+7 8 0 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 2 
+3 7 5 
+6 8 4 
+Search Cost: 82
+Solution Depth: 10
+
+Generated Puzzle: 
+3 5 1 
+6 2 8 
+7 4 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 0 8 
+7 1 4 
+Search Cost: 37
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 5 
+3 7 8 
+4 6 0 
+Search Cost: 45
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 0 
+1 7 2 
+6 8 5 
+Search Cost: 45
+Solution Depth: 10
+
+Generated Puzzle: 
+0 3 2 
+4 7 5 
+1 6 8 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 8 
+4 0 1 
+6 5 7 
+Search Cost: 47
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 0 
+6 5 2 
+7 1 8 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+3 5 0 
+4 2 8 
+6 1 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 2 
+7 0 5 
+1 6 8 
+Search Cost: 57
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 0 8 
+6 3 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 4 
+3 2 8 
+0 6 7 
+Search Cost: 51
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 2 
+7 0 4 
+8 6 5 
+Search Cost: 79
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 0 
+4 8 5 
+3 6 7 
+Search Cost: 61
+Solution Depth: 10
+
+Generated Puzzle: 
+1 4 2 
+5 6 8 
+3 7 0 
+Search Cost: 54
+Solution Depth: 10
+
+Generated Puzzle: 
+2 4 5 
+1 0 8 
+3 6 7 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+4 3 1 
+6 0 2 
+7 5 8 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+0 7 1 
+3 4 2 
+6 8 5 
+Search Cost: 59
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 4 
+3 2 8 
+0 6 7 
+Search Cost: 51
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 0 8 
+7 1 4 
+Search Cost: 37
+Solution Depth: 10
+
+Generated Puzzle: 
+0 3 5 
+2 1 4 
+6 7 8 
+Search Cost: 59
+Solution Depth: 10
+
+Generated Puzzle: 
+1 2 7 
+3 4 5 
+6 8 0 
+Search Cost: 71
+Solution Depth: 10
+
+Generated Puzzle: 
+3 4 1 
+6 2 5 
+7 8 0 
+Search Cost: 65
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+7 0 2 
+6 8 5 
+Search Cost: 55
+Solution Depth: 10
+
+Generated Puzzle: 
+1 4 0 
+7 6 2 
+3 8 5 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+3 5 0 
+2 1 4 
+6 7 8 
+Search Cost: 53
+Solution Depth: 10
+
+Generated Puzzle: 
+3 7 1 
+4 8 2 
+0 6 5 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+6 0 2 
+7 5 8 
+Search Cost: 54
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 0 8 
+6 3 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 5 
+6 2 8 
+0 4 7 
+Search Cost: 56
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 2 
+3 8 4 
+6 7 5 
+Search Cost: 87
+Solution Depth: 10
+
+Generated Puzzle: 
+6 3 2 
+1 0 4 
+7 8 5 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+2 4 5 
+3 0 1 
+6 7 8 
+Search Cost: 99
+Solution Depth: 10
+
+Generated Puzzle: 
+0 2 5 
+3 7 1 
+4 6 8 
+Search Cost: 38
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 0 4 
+7 8 5 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 5 
+6 2 4 
+7 8 0 
+Search Cost: 55
+Solution Depth: 10
+
+Generated Puzzle: 
+0 3 1 
+4 8 2 
+6 5 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 4 
+6 5 2 
+7 8 0 
+Search Cost: 45
+Solution Depth: 10
+
+Generated Puzzle: 
+0 3 5 
+2 1 4 
+6 7 8 
+Search Cost: 59
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 5 
+6 1 8 
+0 7 4 
+Search Cost: 44
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 0 4 
+7 8 5 
+Search Cost: 64
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 2 
+5 6 8 
+0 4 7 
+Search Cost: 61
+Solution Depth: 10
+
+Generated Puzzle: 
+1 6 2 
+3 5 8 
+7 4 0 
+Search Cost: 52
+Solution Depth: 10
+
+Generated Puzzle: 
+0 1 2 
+3 8 4 
+6 7 5 
+Search Cost: 87
+Solution Depth: 10
+
+Generated Puzzle: 
+2 5 4 
+1 0 3 
+6 7 8 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+1 5 4 
+7 0 2 
+3 6 8 
+Search Cost: 68
+Solution Depth: 10
+
+Generated Puzzle: 
+2 4 5 
+1 0 8 
+3 6 7 
+Search Cost: 43
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 2 
+7 6 4 
+8 5 0 
+Search Cost: 44
+Solution Depth: 10
+
+Generated Puzzle: 
+4 7 2 
+1 6 5 
+3 8 0 
+Search Cost: 40
+Solution Depth: 10
+
+Generated Puzzle: 
+0 7 2 
+1 3 5 
+4 6 8 
+Search Cost: 60
+Solution Depth: 10
+
+Generated Puzzle: 
+1 4 0 
+5 8 2 
+3 6 7 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 5 
+1 3 8 
+0 6 7 
+Search Cost: 28
+Solution Depth: 10
+
+Generated Puzzle: 
+3 1 2 
+6 0 8 
+5 4 7 
+Search Cost: 61
+Solution Depth: 10
+
+Generated Puzzle: 
+3 2 7 
+4 1 5 
+6 8 0 
+Search Cost: 49
+Solution Depth: 10
+
+Generated Puzzle: 
+3 4 1 
+6 8 2 
+7 5 0 
+Search Cost: 35
+Solution Depth: 10
+
+Generated Puzzle: 
+4 2 0 
+1 5 8 
+3 6 7 
+Search Cost: 28
+Solution Depth: 10
+Average Search Cost for 200 cases in Depth 10: 51
+Average Execution Time: 0ms
+
+Depth: 12
+
+Generated Puzzle: 
+0 4 2 
+1 7 8 
+3 5 6 
+Search Cost: 69
+Solution Depth: 12
+
+Generated Puzzle: 
+3 7 1 
+6 0 2 
+8 4 5 
+Search Cost: 104
+Solution Depth: 12
+
+Generated Puzzle: 
+1 5 8 
+4 0 2 
+3 6 7 
+Search Cost: 112
+Solution Depth: 12
+
+Generated Puzzle: 
+4 5 0 
+2 3 1 
+6 7 8 
+Search Cost: 114
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 8 
+3 5 7 
+4 6 0 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 0 
+6 4 8 
+5 3 7 
+Search Cost: 65
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 8 
+1 0 3 
+6 5 7 
+Search Cost: 52
+Solution Depth: 12
+
+Generated Puzzle: 
+0 4 2 
+1 6 8 
+5 3 7 
+Search Cost: 88
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 0 
+6 7 2 
+8 4 5 
+Search Cost: 110
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 0 
+4 7 5 
+1 6 8 
+Search Cost: 88
+Solution Depth: 12
+
+Generated Puzzle: 
+3 4 1 
+7 0 2 
+8 6 5 
+Search Cost: 112
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 8 
+5 4 7 
+3 6 0 
+Search Cost: 67
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 5 
+1 0 6 
+7 3 8 
+Search Cost: 52
+Solution Depth: 12
+
+Generated Puzzle: 
+3 7 1 
+6 0 2 
+8 4 5 
+Search Cost: 104
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 5 
+6 4 8 
+0 7 3 
+Search Cost: 73
+Solution Depth: 12
+
+Generated Puzzle: 
+1 6 2 
+4 0 5 
+3 7 8 
+Search Cost: 198
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+4 8 2 
+7 5 0 
+Search Cost: 50
+Solution Depth: 12
+
+Generated Puzzle: 
+3 7 1 
+6 4 2 
+8 5 0 
+Search Cost: 67
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 8 
+3 0 7 
+6 4 5 
+Search Cost: 148
+Solution Depth: 12
+
+Generated Puzzle: 
+1 6 4 
+7 0 2 
+3 8 5 
+Search Cost: 49
+Solution Depth: 12
+
+Generated Puzzle: 
+0 6 1 
+4 3 2 
+7 8 5 
+Search Cost: 94
+Solution Depth: 12
+
+Generated Puzzle: 
+6 1 4 
+5 0 2 
+7 3 8 
+Search Cost: 76
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 4 
+7 6 1 
+0 8 5 
+Search Cost: 49
+Solution Depth: 12
+
+Generated Puzzle: 
+0 1 4 
+3 5 8 
+6 2 7 
+Search Cost: 81
+Solution Depth: 12
+
+Generated Puzzle: 
+2 5 1 
+3 0 4 
+6 7 8 
+Search Cost: 187
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+6 0 4 
+8 5 7 
+Search Cost: 148
+Solution Depth: 12
+
+Generated Puzzle: 
+1 4 0 
+6 3 2 
+5 7 8 
+Search Cost: 87
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 7 
+4 0 5 
+6 1 8 
+Search Cost: 126
+Solution Depth: 12
+
+Generated Puzzle: 
+2 5 4 
+1 0 7 
+3 6 8 
+Search Cost: 58
+Solution Depth: 12
+
+Generated Puzzle: 
+6 1 4 
+7 3 2 
+0 8 5 
+Search Cost: 72
+Solution Depth: 12
+
+Generated Puzzle: 
+4 3 0 
+2 1 5 
+6 7 8 
+Search Cost: 121
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 5 
+7 1 8 
+0 4 6 
+Search Cost: 80
+Solution Depth: 12
+
+Generated Puzzle: 
+1 8 4 
+3 5 2 
+6 7 0 
+Search Cost: 109
+Solution Depth: 12
+
+Generated Puzzle: 
+3 4 1 
+7 0 2 
+8 6 5 
+Search Cost: 112
+Solution Depth: 12
+
+Generated Puzzle: 
+5 1 0 
+3 6 2 
+7 4 8 
+Search Cost: 97
+Solution Depth: 12
+
+Generated Puzzle: 
+1 7 0 
+3 5 2 
+6 8 4 
+Search Cost: 124
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 8 
+3 5 4 
+0 6 7 
+Search Cost: 100
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+5 7 8 
+0 6 4 
+Search Cost: 121
+Solution Depth: 12
+
+Generated Puzzle: 
+2 4 0 
+3 1 5 
+6 7 8 
+Search Cost: 175
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 0 
+5 7 4 
+6 8 2 
+Search Cost: 81
+Solution Depth: 12
+
+Generated Puzzle: 
+1 6 2 
+3 0 8 
+7 5 4 
+Search Cost: 94
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 5 
+6 1 3 
+7 8 0 
+Search Cost: 80
+Solution Depth: 12
+
+Generated Puzzle: 
+1 5 2 
+3 0 8 
+6 7 4 
+Search Cost: 213
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+8 6 7 
+4 5 0 
+Search Cost: 71
+Solution Depth: 12
+
+Generated Puzzle: 
+0 3 2 
+6 4 5 
+1 7 8 
+Search Cost: 134
+Solution Depth: 12
+
+Generated Puzzle: 
+6 1 2 
+4 3 5 
+0 7 8 
+Search Cost: 179
+Solution Depth: 12
+
+Generated Puzzle: 
+6 1 2 
+4 3 5 
+0 7 8 
+Search Cost: 179
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 4 
+3 0 6 
+7 8 5 
+Search Cost: 102
+Solution Depth: 12
+
+Generated Puzzle: 
+1 6 2 
+3 8 4 
+7 5 0 
+Search Cost: 105
+Solution Depth: 12
+
+Generated Puzzle: 
+0 6 2 
+1 4 5 
+3 7 8 
+Search Cost: 183
+Solution Depth: 12
+
+Generated Puzzle: 
+7 3 2 
+1 6 5 
+4 8 0 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+8 5 7 
+Search Cost: 111
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 4 
+7 0 2 
+5 6 8 
+Search Cost: 99
+Solution Depth: 12
+
+Generated Puzzle: 
+1 3 0 
+6 2 4 
+7 8 5 
+Search Cost: 76
+Solution Depth: 12
+
+Generated Puzzle: 
+2 5 0 
+1 6 4 
+7 3 8 
+Search Cost: 45
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 5 
+1 0 7 
+6 8 3 
+Search Cost: 57
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 5 
+6 0 7 
+8 3 4 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+0 3 2 
+8 1 7 
+4 6 5 
+Search Cost: 49
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 7 
+6 3 4 
+0 8 5 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+5 7 8 
+Search Cost: 139
+Solution Depth: 12
+
+Generated Puzzle: 
+2 5 0 
+1 3 7 
+6 8 4 
+Search Cost: 42
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+8 0 5 
+6 4 7 
+Search Cost: 178
+Solution Depth: 12
+
+Generated Puzzle: 
+5 7 1 
+3 0 2 
+4 6 8 
+Search Cost: 71
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 4 
+8 0 2 
+6 5 7 
+Search Cost: 83
+Solution Depth: 12
+
+Generated Puzzle: 
+6 2 0 
+1 3 4 
+7 8 5 
+Search Cost: 79
+Solution Depth: 12
+
+Generated Puzzle: 
+7 3 1 
+5 0 2 
+4 6 8 
+Search Cost: 54
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 0 
+6 8 2 
+5 4 7 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 5 
+7 0 8 
+3 4 6 
+Search Cost: 69
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+6 8 7 
+5 4 0 
+Search Cost: 99
+Solution Depth: 12
+
+Generated Puzzle: 
+0 1 8 
+3 2 4 
+6 5 7 
+Search Cost: 92
+Solution Depth: 12
+
+Generated Puzzle: 
+1 8 2 
+4 0 5 
+3 6 7 
+Search Cost: 151
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 8 
+3 4 7 
+0 6 5 
+Search Cost: 104
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 8 
+3 5 4 
+0 6 7 
+Search Cost: 100
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+6 7 5 
+8 4 0 
+Search Cost: 130
+Solution Depth: 12
+
+Generated Puzzle: 
+6 1 2 
+4 3 5 
+7 8 0 
+Search Cost: 147
+Solution Depth: 12
+
+Generated Puzzle: 
+0 4 2 
+6 3 1 
+7 8 5 
+Search Cost: 111
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 5 
+2 4 8 
+0 6 7 
+Search Cost: 111
+Solution Depth: 12
+
+Generated Puzzle: 
+2 1 5 
+4 0 3 
+6 7 8 
+Search Cost: 163
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 8 
+5 0 4 
+3 6 7 
+Search Cost: 104
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 0 
+4 2 1 
+7 8 5 
+Search Cost: 55
+Solution Depth: 12
+
+Generated Puzzle: 
+3 5 0 
+6 4 1 
+7 8 2 
+Search Cost: 87
+Solution Depth: 12
+
+Generated Puzzle: 
+0 4 2 
+6 3 1 
+7 8 5 
+Search Cost: 111
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 5 
+1 0 6 
+7 3 8 
+Search Cost: 52
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 4 
+6 1 5 
+0 7 8 
+Search Cost: 172
+Solution Depth: 12
+
+Generated Puzzle: 
+5 4 2 
+1 3 8 
+6 7 0 
+Search Cost: 112
+Solution Depth: 12
+
+Generated Puzzle: 
+6 2 0 
+4 1 5 
+7 3 8 
+Search Cost: 121
+Solution Depth: 12
+
+Generated Puzzle: 
+4 5 3 
+1 2 8 
+6 7 0 
+Search Cost: 88
+Solution Depth: 12
+
+Generated Puzzle: 
+4 3 2 
+6 8 1 
+7 5 0 
+Search Cost: 50
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 5 
+6 0 7 
+8 3 4 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+7 4 2 
+8 5 0 
+Search Cost: 31
+Solution Depth: 12
+
+Generated Puzzle: 
+0 3 4 
+1 6 2 
+7 8 5 
+Search Cost: 64
+Solution Depth: 12
+
+Generated Puzzle: 
+1 4 0 
+3 5 8 
+6 2 7 
+Search Cost: 109
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+4 7 6 
+0 8 5 
+Search Cost: 109
+Solution Depth: 12
+
+Generated Puzzle: 
+2 3 5 
+1 4 8 
+0 6 7 
+Search Cost: 83
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 2 
+7 1 4 
+8 5 0 
+Search Cost: 33
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 8 
+6 0 1 
+7 5 4 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 0 
+6 8 5 
+7 1 4 
+Search Cost: 65
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 0 
+6 4 5 
+7 8 1 
+Search Cost: 112
+Solution Depth: 12
+
+Generated Puzzle: 
+1 5 4 
+6 2 8 
+7 3 0 
+Search Cost: 82
+Solution Depth: 12
+
+Generated Puzzle: 
+2 4 0 
+1 5 3 
+6 7 8 
+Search Cost: 97
+Solution Depth: 12
+
+Generated Puzzle: 
+0 3 1 
+7 6 2 
+4 8 5 
+Search Cost: 56
+Solution Depth: 12
+
+Generated Puzzle: 
+2 5 4 
+1 0 8 
+6 3 7 
+Search Cost: 48
+Solution Depth: 12
+
+Generated Puzzle: 
+0 2 5 
+4 1 8 
+6 3 7 
+Search Cost: 111
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+5 8 4 
+6 7 0 
+Search Cost: 154
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 0 
+1 4 2 
+7 8 5 
+Search Cost: 78
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 5 
+1 0 6 
+7 3 8 
+Search Cost: 52
+Solution Depth: 12
+
+Generated Puzzle: 
+1 4 2 
+5 0 7 
+3 8 6 
+Search Cost: 105
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 4 
+6 0 5 
+7 8 2 
+Search Cost: 87
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 4 
+7 6 1 
+0 8 5 
+Search Cost: 49
+Solution Depth: 12
+
+Generated Puzzle: 
+4 3 2 
+6 1 8 
+5 7 0 
+Search Cost: 54
+Solution Depth: 12
+
+Generated Puzzle: 
+0 1 2 
+3 5 8 
+7 4 6 
+Search Cost: 131
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+7 0 6 
+8 5 4 
+Search Cost: 90
+Solution Depth: 12
+
+Generated Puzzle: 
+4 8 2 
+1 0 7 
+3 6 5 
+Search Cost: 57
+Solution Depth: 12
+
+Generated Puzzle: 
+2 4 0 
+1 8 5 
+3 6 7 
+Search Cost: 67
+Solution Depth: 12
+
+Generated Puzzle: 
+0 3 2 
+6 7 5 
+4 1 8 
+Search Cost: 114
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 4 
+6 0 5 
+7 8 2 
+Search Cost: 87
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+7 0 2 
+8 4 5 
+Search Cost: 58
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 8 
+1 5 7 
+3 6 0 
+Search Cost: 49
+Solution Depth: 12
+
+Generated Puzzle: 
+0 1 2 
+6 3 5 
+7 8 4 
+Search Cost: 132
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 5 
+2 4 8 
+0 6 7 
+Search Cost: 111
+Solution Depth: 12
+
+Generated Puzzle: 
+2 3 5 
+1 8 7 
+6 4 0 
+Search Cost: 50
+Solution Depth: 12
+
+Generated Puzzle: 
+4 5 2 
+1 6 8 
+3 7 0 
+Search Cost: 95
+Solution Depth: 12
+
+Generated Puzzle: 
+1 4 0 
+6 3 2 
+5 7 8 
+Search Cost: 87
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+7 0 2 
+8 4 5 
+Search Cost: 58
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+7 0 2 
+8 4 5 
+Search Cost: 58
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+7 4 2 
+8 5 0 
+Search Cost: 31
+Solution Depth: 12
+
+Generated Puzzle: 
+0 2 5 
+1 8 7 
+3 6 4 
+Search Cost: 61
+Solution Depth: 12
+
+Generated Puzzle: 
+1 3 4 
+7 6 2 
+0 8 5 
+Search Cost: 37
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 2 
+7 0 5 
+6 8 4 
+Search Cost: 199
+Solution Depth: 12
+
+Generated Puzzle: 
+6 1 0 
+4 3 2 
+7 8 5 
+Search Cost: 113
+Solution Depth: 12
+
+Generated Puzzle: 
+0 1 5 
+6 2 8 
+4 3 7 
+Search Cost: 73
+Solution Depth: 12
+
+Generated Puzzle: 
+3 7 2 
+4 0 5 
+6 8 1 
+Search Cost: 120
+Solution Depth: 12
+
+Generated Puzzle: 
+3 5 0 
+6 2 8 
+7 1 4 
+Search Cost: 42
+Solution Depth: 12
+
+Generated Puzzle: 
+2 4 5 
+3 1 8 
+0 6 7 
+Search Cost: 113
+Solution Depth: 12
+
+Generated Puzzle: 
+6 2 5 
+1 0 3 
+7 4 8 
+Search Cost: 105
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+4 8 2 
+0 7 5 
+Search Cost: 67
+Solution Depth: 12
+
+Generated Puzzle: 
+3 8 1 
+4 5 2 
+0 6 7 
+Search Cost: 71
+Solution Depth: 12
+
+Generated Puzzle: 
+1 5 0 
+6 3 4 
+7 8 2 
+Search Cost: 80
+Solution Depth: 12
+
+Generated Puzzle: 
+0 2 5 
+3 6 8 
+7 1 4 
+Search Cost: 45
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 4 
+7 0 2 
+5 6 8 
+Search Cost: 99
+Solution Depth: 12
+
+Generated Puzzle: 
+1 7 4 
+3 0 8 
+6 5 2 
+Search Cost: 97
+Solution Depth: 12
+
+Generated Puzzle: 
+0 1 5 
+3 2 7 
+4 6 8 
+Search Cost: 92
+Solution Depth: 12
+
+Generated Puzzle: 
+1 4 2 
+5 0 7 
+3 8 6 
+Search Cost: 105
+Solution Depth: 12
+
+Generated Puzzle: 
+3 4 0 
+6 8 1 
+7 5 2 
+Search Cost: 59
+Solution Depth: 12
+
+Generated Puzzle: 
+6 2 5 
+1 3 8 
+7 4 0 
+Search Cost: 78
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 5 
+6 0 7 
+8 3 4 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+0 3 1 
+5 8 2 
+4 6 7 
+Search Cost: 37
+Solution Depth: 12
+
+Generated Puzzle: 
+3 5 0 
+2 1 8 
+6 4 7 
+Search Cost: 74
+Solution Depth: 12
+
+Generated Puzzle: 
+1 4 5 
+6 2 3 
+0 7 8 
+Search Cost: 104
+Solution Depth: 12
+
+Generated Puzzle: 
+4 1 2 
+5 0 3 
+6 7 8 
+Search Cost: 163
+Solution Depth: 12
+
+Generated Puzzle: 
+3 2 0 
+4 6 5 
+7 1 8 
+Search Cost: 106
+Solution Depth: 12
+
+Generated Puzzle: 
+3 4 1 
+6 0 8 
+7 5 2 
+Search Cost: 113
+Solution Depth: 12
+
+Generated Puzzle: 
+0 2 5 
+1 8 7 
+3 6 4 
+Search Cost: 61
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 7 
+1 0 3 
+6 8 5 
+Search Cost: 52
+Solution Depth: 12
+
+Generated Puzzle: 
+0 5 4 
+1 2 8 
+3 6 7 
+Search Cost: 56
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+7 4 2 
+8 5 0 
+Search Cost: 31
+Solution Depth: 12
+
+Generated Puzzle: 
+1 5 0 
+3 8 4 
+6 2 7 
+Search Cost: 92
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 0 
+1 6 3 
+7 8 5 
+Search Cost: 40
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 8 
+3 4 7 
+0 6 5 
+Search Cost: 104
+Solution Depth: 12
+
+Generated Puzzle: 
+1 8 2 
+6 3 5 
+0 4 7 
+Search Cost: 114
+Solution Depth: 12
+
+Generated Puzzle: 
+4 7 2 
+1 0 8 
+3 5 6 
+Search Cost: 64
+Solution Depth: 12
+
+Generated Puzzle: 
+5 1 2 
+3 0 4 
+6 7 8 
+Search Cost: 216
+Solution Depth: 12
+
+Generated Puzzle: 
+1 6 2 
+4 0 5 
+3 7 8 
+Search Cost: 198
+Solution Depth: 12
+
+Generated Puzzle: 
+5 3 2 
+4 1 8 
+0 6 7 
+Search Cost: 81
+Solution Depth: 12
+
+Generated Puzzle: 
+0 3 4 
+6 2 1 
+7 8 5 
+Search Cost: 66
+Solution Depth: 12
+
+Generated Puzzle: 
+7 3 2 
+4 1 5 
+6 8 0 
+Search Cost: 112
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 5 
+8 0 7 
+3 6 4 
+Search Cost: 77
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+7 0 2 
+8 4 5 
+Search Cost: 58
+Solution Depth: 12
+
+Generated Puzzle: 
+4 3 5 
+2 0 8 
+6 1 7 
+Search Cost: 77
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 4 
+3 0 6 
+7 8 5 
+Search Cost: 102
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 0 
+4 6 5 
+3 7 8 
+Search Cost: 167
+Solution Depth: 12
+
+Generated Puzzle: 
+0 5 4 
+1 2 8 
+3 6 7 
+Search Cost: 56
+Solution Depth: 12
+
+Generated Puzzle: 
+1 2 5 
+8 0 7 
+3 6 4 
+Search Cost: 77
+Solution Depth: 12
+
+Generated Puzzle: 
+7 1 2 
+4 5 8 
+3 6 0 
+Search Cost: 111
+Solution Depth: 12
+
+Generated Puzzle: 
+0 3 1 
+6 8 2 
+7 5 4 
+Search Cost: 66
+Solution Depth: 12
+
+Generated Puzzle: 
+3 5 0 
+4 8 1 
+6 2 7 
+Search Cost: 55
+Solution Depth: 12
+
+Generated Puzzle: 
+0 4 7 
+1 5 2 
+3 6 8 
+Search Cost: 83
+Solution Depth: 12
+
+Generated Puzzle: 
+2 5 4 
+1 0 8 
+6 3 7 
+Search Cost: 48
+Solution Depth: 12
+
+Generated Puzzle: 
+1 7 0 
+3 5 2 
+6 8 4 
+Search Cost: 124
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+4 8 2 
+7 5 0 
+Search Cost: 50
+Solution Depth: 12
+
+Generated Puzzle: 
+0 2 8 
+3 4 1 
+6 5 7 
+Search Cost: 71
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 5 
+3 0 8 
+1 6 7 
+Search Cost: 69
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 0 
+6 4 2 
+8 5 7 
+Search Cost: 111
+Solution Depth: 12
+
+Generated Puzzle: 
+7 3 1 
+5 0 2 
+4 6 8 
+Search Cost: 54
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 8 
+1 5 7 
+3 6 0 
+Search Cost: 49
+Solution Depth: 12
+
+Generated Puzzle: 
+0 1 7 
+3 2 4 
+6 8 5 
+Search Cost: 114
+Solution Depth: 12
+
+Generated Puzzle: 
+2 4 5 
+1 8 7 
+3 6 0 
+Search Cost: 50
+Solution Depth: 12
+
+Generated Puzzle: 
+4 3 5 
+2 0 8 
+6 1 7 
+Search Cost: 77
+Solution Depth: 12
+
+Generated Puzzle: 
+0 2 4 
+3 6 1 
+7 8 5 
+Search Cost: 73
+Solution Depth: 12
+
+Generated Puzzle: 
+0 2 5 
+1 6 8 
+4 3 7 
+Search Cost: 64
+Solution Depth: 12
+
+Generated Puzzle: 
+7 1 0 
+4 5 2 
+3 6 8 
+Search Cost: 120
+Solution Depth: 12
+
+Generated Puzzle: 
+6 3 1 
+7 0 2 
+4 5 8 
+Search Cost: 58
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 0 
+8 7 2 
+4 6 5 
+Search Cost: 70
+Solution Depth: 12
+
+Generated Puzzle: 
+3 1 0 
+2 8 5 
+6 4 7 
+Search Cost: 84
+Solution Depth: 12
+
+Generated Puzzle: 
+4 5 0 
+2 3 1 
+6 7 8 
+Search Cost: 114
+Solution Depth: 12
+
+Generated Puzzle: 
+2 6 5 
+1 0 4 
+7 3 8 
+Search Cost: 60
+Solution Depth: 12
+
+Generated Puzzle: 
+2 5 1 
+3 0 4 
+6 7 8 
+Search Cost: 187
+Solution Depth: 12
+
+Generated Puzzle: 
+4 2 0 
+1 7 5 
+6 8 3 
+Search Cost: 68
+Solution Depth: 12
+
+Generated Puzzle: 
+4 3 2 
+6 8 1 
+0 7 5 
+Search Cost: 92
+Solution Depth: 12
+
+Generated Puzzle: 
+0 5 4 
+1 2 8 
+3 6 7 
+Search Cost: 56
+Solution Depth: 12
+Average Search Cost for 200 cases in Depth 12: 91
+Average Execution Time: 0ms
+
+Depth: 14
+
+Generated Puzzle: 
+0 4 5 
+1 8 2 
+3 6 7 
+Search Cost: 208
+Solution Depth: 14
+
+Generated Puzzle: 
+1 4 0 
+3 7 8 
+6 5 2 
+Search Cost: 198
+Solution Depth: 14
+
+Generated Puzzle: 
+3 2 8 
+5 0 1 
+6 7 4 
+Search Cost: 236
+Solution Depth: 14
+
+Generated Puzzle: 
+3 6 2 
+4 1 5 
+7 8 0 
+Search Cost: 213
+Solution Depth: 14
+
+Generated Puzzle: 
+4 1 5 
+3 0 8 
+6 2 7 
+Search Cost: 256
+Solution Depth: 14
+
+Generated Puzzle: 
+1 8 2 
+4 6 5 
+3 7 0 
+Search Cost: 241
+Solution Depth: 14
+
+Generated Puzzle: 
+1 4 3 
+6 7 2 
+0 8 5 
+Search Cost: 155
+Solution Depth: 14
+
+Generated Puzzle: 
+1 4 2 
+8 0 6 
+7 3 5 
+Search Cost: 162
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 5 
+6 2 8 
+1 7 0 
+Search Cost: 108
+Solution Depth: 14
+
+Generated Puzzle: 
+3 2 8 
+5 0 7 
+4 1 6 
+Search Cost: 61
+Solution Depth: 14
+
+Generated Puzzle: 
+4 6 0 
+3 2 1 
+7 8 5 
+Search Cost: 157
+Solution Depth: 14
+
+Generated Puzzle: 
+1 5 4 
+7 2 8 
+0 3 6 
+Search Cost: 100
+Solution Depth: 14
+
+Generated Puzzle: 
+1 8 7 
+3 0 4 
+6 5 2 
+Search Cost: 139
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 8 
+1 0 7 
+3 5 6 
+Search Cost: 78
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 1 
+8 6 2 
+0 7 5 
+Search Cost: 147
+Solution Depth: 14
+
+Generated Puzzle: 
+1 3 2 
+6 0 5 
+4 7 8 
+Search Cost: 374
+Solution Depth: 14
+
+Generated Puzzle: 
+0 4 6 
+1 5 2 
+7 3 8 
+Search Cost: 101
+Solution Depth: 14
+
+Generated Puzzle: 
+0 1 5 
+6 2 7 
+8 3 4 
+Search Cost: 76
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 1 
+5 6 2 
+4 7 8 
+Search Cost: 221
+Solution Depth: 14
+
+Generated Puzzle: 
+4 7 2 
+3 0 1 
+6 8 5 
+Search Cost: 321
+Solution Depth: 14
+
+Generated Puzzle: 
+2 4 7 
+1 0 5 
+3 6 8 
+Search Cost: 188
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 3 
+5 1 8 
+6 7 0 
+Search Cost: 169
+Solution Depth: 14
+
+Generated Puzzle: 
+6 4 2 
+1 0 5 
+3 7 8 
+Search Cost: 401
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 0 
+7 4 2 
+8 1 5 
+Search Cost: 69
+Solution Depth: 14
+
+Generated Puzzle: 
+1 6 2 
+7 3 4 
+8 5 0 
+Search Cost: 96
+Solution Depth: 14
+
+Generated Puzzle: 
+0 2 5 
+1 4 8 
+7 3 6 
+Search Cost: 146
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 1 
+6 5 7 
+0 8 2 
+Search Cost: 117
+Solution Depth: 14
+
+Generated Puzzle: 
+7 1 4 
+5 2 8 
+3 6 0 
+Search Cost: 98
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 5 
+6 0 2 
+4 7 8 
+Search Cost: 450
+Solution Depth: 14
+
+Generated Puzzle: 
+6 1 2 
+3 7 5 
+0 4 8 
+Search Cost: 297
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 2 
+6 7 5 
+8 1 0 
+Search Cost: 121
+Solution Depth: 14
+
+Generated Puzzle: 
+0 4 8 
+1 2 3 
+6 5 7 
+Search Cost: 84
+Solution Depth: 14
+
+Generated Puzzle: 
+0 1 2 
+7 6 5 
+4 3 8 
+Search Cost: 296
+Solution Depth: 14
+
+Generated Puzzle: 
+6 1 2 
+3 7 5 
+0 4 8 
+Search Cost: 297
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 5 
+8 0 3 
+6 7 4 
+Search Cost: 159
+Solution Depth: 14
+
+Generated Puzzle: 
+4 7 0 
+6 5 2 
+1 3 8 
+Search Cost: 129
+Solution Depth: 14
+
+Generated Puzzle: 
+2 1 0 
+4 3 5 
+6 7 8 
+Search Cost: 272
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 0 
+5 7 2 
+4 8 6 
+Search Cost: 131
+Solution Depth: 14
+
+Generated Puzzle: 
+1 8 2 
+3 7 4 
+6 5 0 
+Search Cost: 251
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 4 
+6 0 8 
+7 2 5 
+Search Cost: 237
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 0 
+6 3 7 
+8 1 5 
+Search Cost: 79
+Solution Depth: 14
+
+Generated Puzzle: 
+2 4 7 
+1 0 5 
+3 6 8 
+Search Cost: 188
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 0 
+3 7 6 
+4 8 5 
+Search Cost: 186
+Solution Depth: 14
+
+Generated Puzzle: 
+7 4 0 
+1 8 2 
+3 6 5 
+Search Cost: 161
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 1 
+8 4 2 
+6 7 5 
+Search Cost: 205
+Solution Depth: 14
+
+Generated Puzzle: 
+0 5 4 
+1 6 3 
+7 8 2 
+Search Cost: 58
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 5 
+6 0 3 
+8 4 7 
+Search Cost: 219
+Solution Depth: 14
+
+Generated Puzzle: 
+1 4 2 
+6 7 5 
+0 8 3 
+Search Cost: 206
+Solution Depth: 14
+
+Generated Puzzle: 
+6 1 4 
+7 0 2 
+8 3 5 
+Search Cost: 119
+Solution Depth: 14
+
+Generated Puzzle: 
+3 5 0 
+6 2 4 
+7 8 1 
+Search Cost: 122
+Solution Depth: 14
+
+Generated Puzzle: 
+6 1 0 
+7 3 2 
+4 5 8 
+Search Cost: 188
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 5 
+6 0 7 
+8 2 4 
+Search Cost: 216
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 8 
+1 5 3 
+0 6 7 
+Search Cost: 81
+Solution Depth: 14
+
+Generated Puzzle: 
+2 4 0 
+1 6 5 
+3 7 8 
+Search Cost: 204
+Solution Depth: 14
+
+Generated Puzzle: 
+2 4 5 
+1 0 6 
+3 7 8 
+Search Cost: 250
+Solution Depth: 14
+
+Generated Puzzle: 
+1 6 2 
+5 0 8 
+3 7 4 
+Search Cost: 187
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 3 
+6 4 5 
+0 7 8 
+Search Cost: 306
+Solution Depth: 14
+
+Generated Puzzle: 
+1 6 2 
+4 7 5 
+0 3 8 
+Search Cost: 273
+Solution Depth: 14
+
+Generated Puzzle: 
+5 4 0 
+1 6 2 
+7 3 8 
+Search Cost: 105
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 0 
+6 1 2 
+5 7 8 
+Search Cost: 133
+Solution Depth: 14
+
+Generated Puzzle: 
+3 4 0 
+8 1 2 
+6 5 7 
+Search Cost: 165
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 5 
+7 6 3 
+1 8 0 
+Search Cost: 90
+Solution Depth: 14
+
+Generated Puzzle: 
+3 2 4 
+6 0 8 
+7 5 1 
+Search Cost: 159
+Solution Depth: 14
+
+Generated Puzzle: 
+5 2 1 
+3 0 8 
+4 6 7 
+Search Cost: 151
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 1 
+4 0 5 
+7 2 8 
+Search Cost: 234
+Solution Depth: 14
+
+Generated Puzzle: 
+7 3 5 
+4 2 1 
+0 6 8 
+Search Cost: 105
+Solution Depth: 14
+
+Generated Puzzle: 
+4 6 1 
+3 2 5 
+7 8 0 
+Search Cost: 221
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 8 
+3 6 4 
+7 5 0 
+Search Cost: 211
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 7 
+6 0 4 
+8 3 5 
+Search Cost: 114
+Solution Depth: 14
+
+Generated Puzzle: 
+3 8 0 
+5 2 1 
+4 6 7 
+Search Cost: 102
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 0 
+8 6 2 
+4 5 7 
+Search Cost: 111
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 0 
+6 1 5 
+7 8 3 
+Search Cost: 180
+Solution Depth: 14
+
+Generated Puzzle: 
+5 1 2 
+3 0 8 
+6 4 7 
+Search Cost: 372
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 1 
+7 6 2 
+8 5 4 
+Search Cost: 54
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 8 
+1 6 5 
+0 3 7 
+Search Cost: 156
+Solution Depth: 14
+
+Generated Puzzle: 
+5 4 1 
+6 3 2 
+7 8 0 
+Search Cost: 171
+Solution Depth: 14
+
+Generated Puzzle: 
+7 3 1 
+6 0 2 
+4 8 5 
+Search Cost: 209
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 5 
+3 1 7 
+6 8 0 
+Search Cost: 333
+Solution Depth: 14
+
+Generated Puzzle: 
+3 4 2 
+6 0 5 
+7 8 1 
+Search Cost: 295
+Solution Depth: 14
+
+Generated Puzzle: 
+3 7 1 
+2 0 5 
+4 6 8 
+Search Cost: 233
+Solution Depth: 14
+
+Generated Puzzle: 
+3 5 7 
+4 2 1 
+6 8 0 
+Search Cost: 145
+Solution Depth: 14
+
+Generated Puzzle: 
+4 5 2 
+1 0 6 
+3 7 8 
+Search Cost: 273
+Solution Depth: 14
+
+Generated Puzzle: 
+0 5 8 
+1 4 2 
+3 6 7 
+Search Cost: 185
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 2 
+7 0 6 
+1 8 5 
+Search Cost: 98
+Solution Depth: 14
+
+Generated Puzzle: 
+1 5 8 
+4 6 2 
+0 3 7 
+Search Cost: 160
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 4 
+3 8 6 
+7 5 0 
+Search Cost: 162
+Solution Depth: 14
+
+Generated Puzzle: 
+5 3 2 
+1 0 8 
+6 7 4 
+Search Cost: 348
+Solution Depth: 14
+
+Generated Puzzle: 
+1 6 2 
+5 0 8 
+3 7 4 
+Search Cost: 187
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 5 
+6 0 8 
+7 4 2 
+Search Cost: 229
+Solution Depth: 14
+
+Generated Puzzle: 
+4 1 5 
+3 2 8 
+6 7 0 
+Search Cost: 341
+Solution Depth: 14
+
+Generated Puzzle: 
+1 6 5 
+3 0 4 
+7 2 8 
+Search Cost: 127
+Solution Depth: 14
+
+Generated Puzzle: 
+3 8 2 
+1 0 5 
+4 6 7 
+Search Cost: 201
+Solution Depth: 14
+
+Generated Puzzle: 
+0 1 2 
+4 6 5 
+3 7 8 
+Search Cost: 295
+Solution Depth: 14
+
+Generated Puzzle: 
+2 3 5 
+4 0 8 
+1 6 7 
+Search Cost: 134
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 8 
+6 3 7 
+0 4 5 
+Search Cost: 157
+Solution Depth: 14
+
+Generated Puzzle: 
+3 2 5 
+7 0 8 
+1 6 4 
+Search Cost: 157
+Solution Depth: 14
+
+Generated Puzzle: 
+2 1 5 
+4 3 8 
+0 6 7 
+Search Cost: 205
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 1 
+7 8 2 
+0 5 4 
+Search Cost: 66
+Solution Depth: 14
+
+Generated Puzzle: 
+2 4 5 
+6 0 8 
+1 3 7 
+Search Cost: 165
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 1 
+8 6 2 
+0 7 5 
+Search Cost: 147
+Solution Depth: 14
+
+Generated Puzzle: 
+4 1 2 
+3 6 5 
+7 8 0 
+Search Cost: 370
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 1 
+4 6 2 
+8 7 5 
+Search Cost: 177
+Solution Depth: 14
+
+Generated Puzzle: 
+0 2 4 
+3 1 5 
+6 7 8 
+Search Cost: 334
+Solution Depth: 14
+
+Generated Puzzle: 
+0 1 4 
+2 5 8 
+3 6 7 
+Search Cost: 193
+Solution Depth: 14
+
+Generated Puzzle: 
+0 4 5 
+1 2 8 
+3 7 6 
+Search Cost: 198
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 1 
+7 4 2 
+8 6 5 
+Search Cost: 159
+Solution Depth: 14
+
+Generated Puzzle: 
+0 5 7 
+4 1 2 
+3 6 8 
+Search Cost: 160
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 1 
+8 5 2 
+6 7 0 
+Search Cost: 154
+Solution Depth: 14
+
+Generated Puzzle: 
+4 5 2 
+1 0 8 
+6 7 3 
+Search Cost: 215
+Solution Depth: 14
+
+Generated Puzzle: 
+7 1 4 
+6 0 2 
+3 8 5 
+Search Cost: 151
+Solution Depth: 14
+
+Generated Puzzle: 
+1 4 2 
+6 5 3 
+0 8 7 
+Search Cost: 193
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 7 
+6 0 4 
+8 3 5 
+Search Cost: 114
+Solution Depth: 14
+
+Generated Puzzle: 
+2 6 5 
+1 0 8 
+4 3 7 
+Search Cost: 102
+Solution Depth: 14
+
+Generated Puzzle: 
+0 6 1 
+7 3 2 
+4 5 8 
+Search Cost: 126
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 5 
+7 6 3 
+1 8 0 
+Search Cost: 90
+Solution Depth: 14
+
+Generated Puzzle: 
+1 5 2 
+4 0 8 
+6 3 7 
+Search Cost: 363
+Solution Depth: 14
+
+Generated Puzzle: 
+0 1 2 
+3 8 7 
+5 4 6 
+Search Cost: 100
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 1 
+8 7 2 
+0 4 5 
+Search Cost: 140
+Solution Depth: 14
+
+Generated Puzzle: 
+1 5 2 
+3 0 7 
+4 8 6 
+Search Cost: 146
+Solution Depth: 14
+
+Generated Puzzle: 
+2 4 5 
+1 8 7 
+0 3 6 
+Search Cost: 79
+Solution Depth: 14
+
+Generated Puzzle: 
+3 2 4 
+7 6 5 
+0 1 8 
+Search Cost: 205
+Solution Depth: 14
+
+Generated Puzzle: 
+0 7 2 
+4 5 8 
+1 3 6 
+Search Cost: 53
+Solution Depth: 14
+
+Generated Puzzle: 
+6 1 5 
+4 2 8 
+0 3 7 
+Search Cost: 189
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 0 
+1 7 8 
+3 5 6 
+Search Cost: 127
+Solution Depth: 14
+
+Generated Puzzle: 
+4 5 8 
+1 0 2 
+6 3 7 
+Search Cost: 166
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 2 
+7 4 5 
+8 1 0 
+Search Cost: 94
+Solution Depth: 14
+
+Generated Puzzle: 
+2 4 5 
+1 0 7 
+3 8 6 
+Search Cost: 145
+Solution Depth: 14
+
+Generated Puzzle: 
+1 3 2 
+6 0 5 
+4 7 8 
+Search Cost: 374
+Solution Depth: 14
+
+Generated Puzzle: 
+4 5 2 
+1 0 7 
+3 8 6 
+Search Cost: 160
+Solution Depth: 14
+
+Generated Puzzle: 
+0 4 1 
+3 6 8 
+7 5 2 
+Search Cost: 147
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 2 
+4 6 8 
+5 1 7 
+Search Cost: 88
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 2 
+7 0 1 
+8 6 5 
+Search Cost: 142
+Solution Depth: 14
+
+Generated Puzzle: 
+0 1 2 
+5 4 7 
+3 8 6 
+Search Cost: 189
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 4 
+3 6 5 
+0 7 8 
+Search Cost: 292
+Solution Depth: 14
+
+Generated Puzzle: 
+3 4 2 
+7 0 1 
+6 8 5 
+Search Cost: 455
+Solution Depth: 14
+
+Generated Puzzle: 
+3 8 0 
+5 2 1 
+4 6 7 
+Search Cost: 102
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 1 
+6 2 5 
+7 8 4 
+Search Cost: 128
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 1 
+7 6 2 
+8 5 4 
+Search Cost: 54
+Solution Depth: 14
+
+Generated Puzzle: 
+2 4 5 
+1 8 7 
+0 3 6 
+Search Cost: 79
+Solution Depth: 14
+
+Generated Puzzle: 
+4 1 2 
+3 0 6 
+7 8 5 
+Search Cost: 358
+Solution Depth: 14
+
+Generated Puzzle: 
+2 5 8 
+1 4 7 
+0 3 6 
+Search Cost: 36
+Solution Depth: 14
+
+Generated Puzzle: 
+6 1 2 
+7 3 5 
+0 8 4 
+Search Cost: 264
+Solution Depth: 14
+
+Generated Puzzle: 
+2 5 8 
+3 0 1 
+4 6 7 
+Search Cost: 94
+Solution Depth: 14
+
+Generated Puzzle: 
+1 4 3 
+6 7 2 
+0 8 5 
+Search Cost: 155
+Solution Depth: 14
+
+Generated Puzzle: 
+2 8 4 
+1 0 5 
+3 6 7 
+Search Cost: 173
+Solution Depth: 14
+
+Generated Puzzle: 
+4 5 2 
+1 0 8 
+6 7 3 
+Search Cost: 215
+Solution Depth: 14
+
+Generated Puzzle: 
+1 4 7 
+5 0 2 
+3 6 8 
+Search Cost: 196
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 1 
+8 7 2 
+0 4 5 
+Search Cost: 140
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 1 
+5 2 8 
+0 7 4 
+Search Cost: 67
+Solution Depth: 14
+
+Generated Puzzle: 
+4 1 5 
+3 0 8 
+6 2 7 
+Search Cost: 256
+Solution Depth: 14
+
+Generated Puzzle: 
+1 7 4 
+3 5 8 
+6 2 0 
+Search Cost: 199
+Solution Depth: 14
+
+Generated Puzzle: 
+2 3 1 
+6 4 5 
+0 7 8 
+Search Cost: 289
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 8 
+1 5 3 
+0 6 7 
+Search Cost: 81
+Solution Depth: 14
+
+Generated Puzzle: 
+2 5 1 
+3 7 4 
+6 8 0 
+Search Cost: 283
+Solution Depth: 14
+
+Generated Puzzle: 
+3 2 7 
+6 4 1 
+8 5 0 
+Search Cost: 108
+Solution Depth: 14
+
+Generated Puzzle: 
+6 1 4 
+3 8 2 
+0 7 5 
+Search Cost: 183
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 4 
+6 0 7 
+8 5 2 
+Search Cost: 137
+Solution Depth: 14
+
+Generated Puzzle: 
+0 4 3 
+1 8 2 
+6 5 7 
+Search Cost: 135
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 7 
+5 0 2 
+4 6 8 
+Search Cost: 179
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 0 
+6 7 4 
+8 5 2 
+Search Cost: 77
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 8 
+4 3 5 
+0 6 7 
+Search Cost: 248
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 5 
+6 2 7 
+0 8 1 
+Search Cost: 57
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 2 
+7 5 4 
+6 8 0 
+Search Cost: 361
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 7 
+6 4 5 
+8 3 0 
+Search Cost: 104
+Solution Depth: 14
+
+Generated Puzzle: 
+3 8 1 
+6 5 2 
+7 4 0 
+Search Cost: 172
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 0 
+7 4 1 
+8 5 2 
+Search Cost: 36
+Solution Depth: 14
+
+Generated Puzzle: 
+3 8 0 
+6 2 1 
+7 5 4 
+Search Cost: 140
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 1 
+4 2 5 
+0 7 8 
+Search Cost: 238
+Solution Depth: 14
+
+Generated Puzzle: 
+2 5 0 
+1 7 4 
+6 8 3 
+Search Cost: 99
+Solution Depth: 14
+
+Generated Puzzle: 
+0 2 5 
+1 6 7 
+3 4 8 
+Search Cost: 216
+Solution Depth: 14
+
+Generated Puzzle: 
+1 5 7 
+3 8 2 
+0 6 4 
+Search Cost: 142
+Solution Depth: 14
+
+Generated Puzzle: 
+7 3 1 
+6 0 2 
+4 8 5 
+Search Cost: 209
+Solution Depth: 14
+
+Generated Puzzle: 
+1 8 0 
+3 2 5 
+4 6 7 
+Search Cost: 162
+Solution Depth: 14
+
+Generated Puzzle: 
+5 3 4 
+7 0 2 
+1 6 8 
+Search Cost: 93
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 2 
+6 7 4 
+8 1 5 
+Search Cost: 128
+Solution Depth: 14
+
+Generated Puzzle: 
+4 7 2 
+6 3 5 
+1 8 0 
+Search Cost: 178
+Solution Depth: 14
+
+Generated Puzzle: 
+4 5 0 
+2 1 8 
+3 6 7 
+Search Cost: 145
+Solution Depth: 14
+
+Generated Puzzle: 
+2 5 8 
+1 3 7 
+0 6 4 
+Search Cost: 38
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 0 
+7 8 1 
+6 5 2 
+Search Cost: 77
+Solution Depth: 14
+
+Generated Puzzle: 
+0 7 4 
+1 6 2 
+8 3 5 
+Search Cost: 56
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 6 
+7 0 4 
+3 8 5 
+Search Cost: 116
+Solution Depth: 14
+
+Generated Puzzle: 
+0 4 1 
+3 2 5 
+6 7 8 
+Search Cost: 383
+Solution Depth: 14
+
+Generated Puzzle: 
+6 4 2 
+3 5 8 
+7 1 0 
+Search Cost: 232
+Solution Depth: 14
+
+Generated Puzzle: 
+0 6 2 
+1 8 4 
+3 7 5 
+Search Cost: 165
+Solution Depth: 14
+
+Generated Puzzle: 
+3 1 0 
+6 4 8 
+7 5 2 
+Search Cost: 208
+Solution Depth: 14
+
+Generated Puzzle: 
+3 4 2 
+6 0 5 
+7 8 1 
+Search Cost: 295
+Solution Depth: 14
+
+Generated Puzzle: 
+4 3 0 
+6 1 2 
+8 5 7 
+Search Cost: 90
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 1 
+6 4 5 
+7 2 8 
+Search Cost: 240
+Solution Depth: 14
+
+Generated Puzzle: 
+1 4 2 
+6 7 5 
+0 8 3 
+Search Cost: 206
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 8 
+3 5 7 
+0 4 6 
+Search Cost: 111
+Solution Depth: 14
+
+Generated Puzzle: 
+1 8 2 
+6 3 5 
+4 7 0 
+Search Cost: 218
+Solution Depth: 14
+
+Generated Puzzle: 
+0 3 4 
+6 8 1 
+7 5 2 
+Search Cost: 64
+Solution Depth: 14
+
+Generated Puzzle: 
+6 3 1 
+4 0 5 
+7 2 8 
+Search Cost: 234
+Solution Depth: 14
+
+Generated Puzzle: 
+3 2 4 
+7 0 1 
+8 6 5 
+Search Cost: 162
+Solution Depth: 14
+
+Generated Puzzle: 
+0 2 5 
+1 8 7 
+4 3 6 
+Search Cost: 64
+Solution Depth: 14
+
+Generated Puzzle: 
+0 6 2 
+1 3 8 
+7 5 4 
+Search Cost: 147
+Solution Depth: 14
+
+Generated Puzzle: 
+2 5 8 
+1 4 7 
+0 3 6 
+Search Cost: 36
+Solution Depth: 14
+
+Generated Puzzle: 
+4 2 5 
+3 6 8 
+1 7 0 
+Search Cost: 184
+Solution Depth: 14
+
+Generated Puzzle: 
+1 2 7 
+3 8 5 
+4 6 0 
+Search Cost: 112
+Solution Depth: 14
+
+Generated Puzzle: 
+0 1 7 
+3 6 2 
+4 8 5 
+Search Cost: 149
+Solution Depth: 14
+Average Search Cost for 200 cases in Depth 14: 175
+Average Execution Time: 0ms
+
+Depth: 16
+
+Generated Puzzle: 
+0 3 1 
+7 8 2 
+5 6 4 
+Search Cost: 175
+Solution Depth: 16
+
+Generated Puzzle: 
+4 1 5 
+2 0 6 
+3 7 8 
+Search Cost: 643
+Solution Depth: 16
+
+Generated Puzzle: 
+6 4 1 
+2 0 5 
+7 3 8 
+Search Cost: 524
+Solution Depth: 16
+
+Generated Puzzle: 
+6 2 5 
+1 0 4 
+3 7 8 
+Search Cost: 723
+Solution Depth: 16
+
+Generated Puzzle: 
+4 1 2 
+3 6 5 
+0 7 8 
+Search Cost: 600
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 1 
+7 0 2 
+6 8 4 
+Search Cost: 791
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 8 
+3 4 7 
+0 6 1 
+Search Cost: 227
+Solution Depth: 16
+
+Generated Puzzle: 
+0 4 2 
+7 1 3 
+6 8 5 
+Search Cost: 565
+Solution Depth: 16
+
+Generated Puzzle: 
+2 3 7 
+1 4 5 
+6 8 0 
+Search Cost: 370
+Solution Depth: 16
+
+Generated Puzzle: 
+6 2 5 
+1 8 4 
+7 3 0 
+Search Cost: 267
+Solution Depth: 16
+
+Generated Puzzle: 
+7 3 2 
+4 1 8 
+5 6 0 
+Search Cost: 217
+Solution Depth: 16
+
+Generated Puzzle: 
+4 1 5 
+3 2 7 
+0 8 6 
+Search Cost: 292
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 7 
+4 0 2 
+6 5 8 
+Search Cost: 659
+Solution Depth: 16
+
+Generated Puzzle: 
+0 4 2 
+5 7 8 
+1 3 6 
+Search Cost: 221
+Solution Depth: 16
+
+Generated Puzzle: 
+1 3 4 
+5 6 2 
+0 7 8 
+Search Cost: 357
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 2 
+3 8 4 
+0 6 7 
+Search Cost: 609
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 4 
+7 8 6 
+0 3 2 
+Search Cost: 104
+Solution Depth: 16
+
+Generated Puzzle: 
+3 8 0 
+6 4 1 
+5 7 2 
+Search Cost: 190
+Solution Depth: 16
+
+Generated Puzzle: 
+4 2 7 
+8 0 3 
+1 6 5 
+Search Cost: 78
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 8 
+1 7 4 
+6 3 0 
+Search Cost: 198
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 8 
+5 0 6 
+3 7 4 
+Search Cost: 380
+Solution Depth: 16
+
+Generated Puzzle: 
+4 1 7 
+5 3 2 
+6 8 0 
+Search Cost: 296
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 1 
+8 0 2 
+6 4 7 
+Search Cost: 539
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 8 
+2 0 7 
+4 3 6 
+Search Cost: 160
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 4 
+3 6 8 
+1 7 0 
+Search Cost: 275
+Solution Depth: 16
+
+Generated Puzzle: 
+2 1 0 
+3 5 7 
+4 6 8 
+Search Cost: 410
+Solution Depth: 16
+
+Generated Puzzle: 
+1 4 2 
+7 0 5 
+8 3 6 
+Search Cost: 477
+Solution Depth: 16
+
+Generated Puzzle: 
+2 1 8 
+3 0 7 
+4 6 5 
+Search Cost: 273
+Solution Depth: 16
+
+Generated Puzzle: 
+6 1 4 
+7 0 3 
+8 5 2 
+Search Cost: 145
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 0 
+7 2 6 
+4 3 8 
+Search Cost: 225
+Solution Depth: 16
+
+Generated Puzzle: 
+3 8 1 
+6 0 4 
+5 7 2 
+Search Cost: 183
+Solution Depth: 16
+
+Generated Puzzle: 
+0 7 2 
+1 5 4 
+3 6 8 
+Search Cost: 503
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 0 
+6 7 5 
+8 2 4 
+Search Cost: 349
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 0 
+3 6 8 
+1 4 7 
+Search Cost: 169
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 1 
+7 5 4 
+8 2 0 
+Search Cost: 170
+Solution Depth: 16
+
+Generated Puzzle: 
+7 3 2 
+8 1 4 
+6 5 0 
+Search Cost: 221
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 2 
+6 0 1 
+7 8 4 
+Search Cost: 525
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 5 
+7 6 8 
+0 4 2 
+Search Cost: 400
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 7 
+3 4 1 
+6 8 0 
+Search Cost: 329
+Solution Depth: 16
+
+Generated Puzzle: 
+0 1 4 
+6 7 3 
+8 5 2 
+Search Cost: 130
+Solution Depth: 16
+
+Generated Puzzle: 
+4 2 0 
+7 6 5 
+1 8 3 
+Search Cost: 128
+Solution Depth: 16
+
+Generated Puzzle: 
+4 2 7 
+1 0 6 
+8 3 5 
+Search Cost: 76
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 2 
+6 0 1 
+7 8 4 
+Search Cost: 525
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 5 
+2 0 8 
+1 4 7 
+Search Cost: 172
+Solution Depth: 16
+
+Generated Puzzle: 
+5 4 1 
+2 0 8 
+3 6 7 
+Search Cost: 461
+Solution Depth: 16
+
+Generated Puzzle: 
+3 8 0 
+6 4 1 
+5 7 2 
+Search Cost: 190
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 0 
+4 7 1 
+2 6 8 
+Search Cost: 218
+Solution Depth: 16
+
+Generated Puzzle: 
+2 3 1 
+5 0 8 
+4 6 7 
+Search Cost: 345
+Solution Depth: 16
+
+Generated Puzzle: 
+1 4 2 
+7 0 5 
+8 3 6 
+Search Cost: 477
+Solution Depth: 16
+
+Generated Puzzle: 
+8 3 4 
+6 1 2 
+0 5 7 
+Search Cost: 122
+Solution Depth: 16
+
+Generated Puzzle: 
+2 4 0 
+6 1 5 
+7 3 8 
+Search Cost: 578
+Solution Depth: 16
+
+Generated Puzzle: 
+1 3 4 
+2 0 5 
+6 7 8 
+Search Cost: 556
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 4 
+6 0 1 
+5 7 8 
+Search Cost: 514
+Solution Depth: 16
+
+Generated Puzzle: 
+6 1 0 
+7 2 4 
+3 5 8 
+Search Cost: 374
+Solution Depth: 16
+
+Generated Puzzle: 
+3 7 2 
+6 0 4 
+8 1 5 
+Search Cost: 473
+Solution Depth: 16
+
+Generated Puzzle: 
+4 5 1 
+6 2 3 
+0 7 8 
+Search Cost: 432
+Solution Depth: 16
+
+Generated Puzzle: 
+4 3 1 
+6 7 5 
+0 2 8 
+Search Cost: 334
+Solution Depth: 16
+
+Generated Puzzle: 
+0 3 4 
+6 1 7 
+8 5 2 
+Search Cost: 150
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 2 
+1 0 4 
+6 7 8 
+Search Cost: 1233
+Solution Depth: 16
+
+Generated Puzzle: 
+6 4 0 
+1 5 2 
+3 7 8 
+Search Cost: 679
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 2 
+8 4 7 
+0 5 6 
+Search Cost: 400
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 8 
+6 0 5 
+7 2 4 
+Search Cost: 487
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 7 
+3 5 8 
+0 6 4 
+Search Cost: 319
+Solution Depth: 16
+
+Generated Puzzle: 
+1 4 2 
+8 6 5 
+7 3 0 
+Search Cost: 305
+Solution Depth: 16
+
+Generated Puzzle: 
+3 4 5 
+6 8 1 
+7 2 0 
+Search Cost: 297
+Solution Depth: 16
+
+Generated Puzzle: 
+4 5 3 
+7 6 2 
+1 8 0 
+Search Cost: 175
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 2 
+3 8 4 
+0 6 7 
+Search Cost: 609
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 2 
+6 0 8 
+4 7 5 
+Search Cost: 679
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 0 
+4 8 1 
+6 7 5 
+Search Cost: 707
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 0 
+3 4 8 
+2 6 7 
+Search Cost: 171
+Solution Depth: 16
+
+Generated Puzzle: 
+0 1 8 
+3 5 4 
+6 7 2 
+Search Cost: 405
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 2 
+1 4 7 
+8 5 0 
+Search Cost: 366
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 7 
+1 0 8 
+3 6 4 
+Search Cost: 289
+Solution Depth: 16
+
+Generated Puzzle: 
+3 8 2 
+6 0 4 
+7 5 1 
+Search Cost: 403
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 1 
+7 5 4 
+8 2 0 
+Search Cost: 170
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 7 
+6 1 5 
+0 8 4 
+Search Cost: 344
+Solution Depth: 16
+
+Generated Puzzle: 
+5 2 0 
+1 6 8 
+3 4 7 
+Search Cost: 292
+Solution Depth: 16
+
+Generated Puzzle: 
+2 8 0 
+3 4 7 
+6 1 5 
+Search Cost: 276
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 2 
+7 4 6 
+0 5 8 
+Search Cost: 590
+Solution Depth: 16
+
+Generated Puzzle: 
+4 2 0 
+3 1 6 
+7 8 5 
+Search Cost: 512
+Solution Depth: 16
+
+Generated Puzzle: 
+3 7 1 
+6 0 5 
+8 2 4 
+Search Cost: 322
+Solution Depth: 16
+
+Generated Puzzle: 
+5 2 8 
+1 3 7 
+4 6 0 
+Search Cost: 141
+Solution Depth: 16
+
+Generated Puzzle: 
+4 6 1 
+7 3 2 
+8 5 0 
+Search Cost: 167
+Solution Depth: 16
+
+Generated Puzzle: 
+6 1 0 
+7 3 4 
+8 5 2 
+Search Cost: 158
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 0 
+7 1 6 
+5 4 8 
+Search Cost: 278
+Solution Depth: 16
+
+Generated Puzzle: 
+0 3 4 
+5 2 8 
+1 6 7 
+Search Cost: 211
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 2 
+5 0 4 
+7 6 8 
+Search Cost: 576
+Solution Depth: 16
+
+Generated Puzzle: 
+2 1 5 
+6 4 8 
+0 3 7 
+Search Cost: 572
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 4 
+7 1 8 
+2 6 0 
+Search Cost: 97
+Solution Depth: 16
+
+Generated Puzzle: 
+2 1 5 
+3 4 7 
+0 6 8 
+Search Cost: 667
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 7 
+3 0 6 
+8 4 5 
+Search Cost: 300
+Solution Depth: 16
+
+Generated Puzzle: 
+5 4 2 
+3 0 8 
+1 6 7 
+Search Cost: 499
+Solution Depth: 16
+
+Generated Puzzle: 
+3 4 5 
+1 2 8 
+0 6 7 
+Search Cost: 527
+Solution Depth: 16
+
+Generated Puzzle: 
+6 4 3 
+7 5 1 
+0 8 2 
+Search Cost: 88
+Solution Depth: 16
+
+Generated Puzzle: 
+2 4 5 
+6 3 8 
+1 7 0 
+Search Cost: 338
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 0 
+7 5 8 
+4 2 6 
+Search Cost: 214
+Solution Depth: 16
+
+Generated Puzzle: 
+3 7 1 
+8 6 4 
+0 5 2 
+Search Cost: 187
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 2 
+8 0 7 
+4 1 5 
+Search Cost: 212
+Solution Depth: 16
+
+Generated Puzzle: 
+1 4 8 
+3 0 2 
+6 7 5 
+Search Cost: 588
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 4 
+2 0 5 
+7 6 8 
+Search Cost: 558
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 1 
+7 8 5 
+0 4 2 
+Search Cost: 296
+Solution Depth: 16
+
+Generated Puzzle: 
+5 1 4 
+3 6 2 
+0 7 8 
+Search Cost: 478
+Solution Depth: 16
+
+Generated Puzzle: 
+0 3 1 
+8 5 2 
+6 4 7 
+Search Cost: 456
+Solution Depth: 16
+
+Generated Puzzle: 
+0 4 2 
+3 1 8 
+5 6 7 
+Search Cost: 476
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 0 
+6 8 2 
+4 7 5 
+Search Cost: 586
+Solution Depth: 16
+
+Generated Puzzle: 
+4 2 8 
+1 6 7 
+5 3 0 
+Search Cost: 89
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 1 
+7 2 5 
+0 8 4 
+Search Cost: 262
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 8 
+3 6 1 
+0 4 7 
+Search Cost: 178
+Solution Depth: 16
+
+Generated Puzzle: 
+0 6 5 
+2 1 8 
+4 3 7 
+Search Cost: 279
+Solution Depth: 16
+
+Generated Puzzle: 
+0 1 4 
+7 6 2 
+8 5 3 
+Search Cost: 86
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 5 
+4 0 1 
+7 8 2 
+Search Cost: 264
+Solution Depth: 16
+
+Generated Puzzle: 
+0 8 1 
+3 6 2 
+5 4 7 
+Search Cost: 204
+Solution Depth: 16
+
+Generated Puzzle: 
+0 1 8 
+4 2 7 
+3 6 5 
+Search Cost: 314
+Solution Depth: 16
+
+Generated Puzzle: 
+4 2 1 
+6 3 5 
+0 7 8 
+Search Cost: 864
+Solution Depth: 16
+
+Generated Puzzle: 
+1 4 8 
+3 0 2 
+6 7 5 
+Search Cost: 588
+Solution Depth: 16
+
+Generated Puzzle: 
+0 1 3 
+4 8 2 
+6 7 5 
+Search Cost: 445
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 4 
+8 0 5 
+6 1 7 
+Search Cost: 431
+Solution Depth: 16
+
+Generated Puzzle: 
+3 4 2 
+7 0 5 
+6 1 8 
+Search Cost: 692
+Solution Depth: 16
+
+Generated Puzzle: 
+1 8 0 
+6 5 2 
+4 3 7 
+Search Cost: 366
+Solution Depth: 16
+
+Generated Puzzle: 
+0 3 1 
+8 5 2 
+6 4 7 
+Search Cost: 456
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 8 
+1 6 2 
+0 4 7 
+Search Cost: 247
+Solution Depth: 16
+
+Generated Puzzle: 
+2 1 5 
+3 0 8 
+7 4 6 
+Search Cost: 558
+Solution Depth: 16
+
+Generated Puzzle: 
+0 1 3 
+6 4 2 
+7 5 8 
+Search Cost: 510
+Solution Depth: 16
+
+Generated Puzzle: 
+0 3 7 
+5 1 2 
+4 6 8 
+Search Cost: 216
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 8 
+3 6 4 
+0 7 5 
+Search Cost: 526
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 8 
+1 2 7 
+0 4 6 
+Search Cost: 71
+Solution Depth: 16
+
+Generated Puzzle: 
+2 6 5 
+1 8 7 
+4 3 0 
+Search Cost: 104
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 0 
+8 2 7 
+4 3 6 
+Search Cost: 134
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 0 
+1 4 6 
+3 7 8 
+Search Cost: 289
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 4 
+1 0 8 
+2 6 7 
+Search Cost: 104
+Solution Depth: 16
+
+Generated Puzzle: 
+5 2 8 
+1 3 7 
+4 6 0 
+Search Cost: 141
+Solution Depth: 16
+
+Generated Puzzle: 
+4 6 0 
+1 8 2 
+5 3 7 
+Search Cost: 158
+Solution Depth: 16
+
+Generated Puzzle: 
+2 6 4 
+3 8 1 
+0 7 5 
+Search Cost: 184
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 7 
+4 3 8 
+0 6 5 
+Search Cost: 349
+Solution Depth: 16
+
+Generated Puzzle: 
+6 1 2 
+7 0 5 
+8 3 4 
+Search Cost: 471
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 6 
+7 1 5 
+0 4 8 
+Search Cost: 273
+Solution Depth: 16
+
+Generated Puzzle: 
+3 4 1 
+8 0 7 
+6 5 2 
+Search Cost: 340
+Solution Depth: 16
+
+Generated Puzzle: 
+5 3 8 
+2 0 1 
+4 6 7 
+Search Cost: 113
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 2 
+4 0 7 
+8 5 6 
+Search Cost: 465
+Solution Depth: 16
+
+Generated Puzzle: 
+0 2 4 
+1 3 8 
+6 7 5 
+Search Cost: 543
+Solution Depth: 16
+
+Generated Puzzle: 
+6 5 0 
+2 1 3 
+7 8 4 
+Search Cost: 121
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 0 
+7 1 2 
+5 4 8 
+Search Cost: 210
+Solution Depth: 16
+
+Generated Puzzle: 
+2 3 0 
+4 8 5 
+1 6 7 
+Search Cost: 167
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 4 
+7 8 1 
+0 5 2 
+Search Cost: 69
+Solution Depth: 16
+
+Generated Puzzle: 
+2 4 5 
+8 0 7 
+1 3 6 
+Search Cost: 129
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 7 
+1 8 3 
+0 6 4 
+Search Cost: 74
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 6 
+7 0 5 
+4 1 8 
+Search Cost: 248
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 1 
+4 7 2 
+5 8 0 
+Search Cost: 294
+Solution Depth: 16
+
+Generated Puzzle: 
+6 5 4 
+2 1 8 
+7 3 0 
+Search Cost: 137
+Solution Depth: 16
+
+Generated Puzzle: 
+1 4 5 
+3 7 8 
+6 2 0 
+Search Cost: 607
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 2 
+8 0 7 
+3 4 6 
+Search Cost: 357
+Solution Depth: 16
+
+Generated Puzzle: 
+4 8 0 
+1 3 2 
+6 7 5 
+Search Cost: 477
+Solution Depth: 16
+
+Generated Puzzle: 
+5 7 1 
+4 0 2 
+6 3 8 
+Search Cost: 579
+Solution Depth: 16
+
+Generated Puzzle: 
+7 6 1 
+3 0 2 
+8 4 5 
+Search Cost: 296
+Solution Depth: 16
+
+Generated Puzzle: 
+4 6 2 
+5 1 8 
+0 3 7 
+Search Cost: 384
+Solution Depth: 16
+
+Generated Puzzle: 
+4 5 0 
+1 2 8 
+7 6 3 
+Search Cost: 179
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 1 
+7 4 5 
+6 8 0 
+Search Cost: 883
+Solution Depth: 16
+
+Generated Puzzle: 
+3 6 1 
+7 0 5 
+4 2 8 
+Search Cost: 364
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 4 
+6 0 5 
+3 7 8 
+Search Cost: 981
+Solution Depth: 16
+
+Generated Puzzle: 
+0 4 2 
+6 1 3 
+7 5 8 
+Search Cost: 491
+Solution Depth: 16
+
+Generated Puzzle: 
+3 4 2 
+6 1 5 
+8 7 0 
+Search Cost: 509
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 4 
+6 1 8 
+3 7 0 
+Search Cost: 392
+Solution Depth: 16
+
+Generated Puzzle: 
+4 7 3 
+6 0 2 
+8 1 5 
+Search Cost: 190
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 2 
+4 6 8 
+7 5 0 
+Search Cost: 682
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 7 
+1 0 3 
+4 6 8 
+Search Cost: 112
+Solution Depth: 16
+
+Generated Puzzle: 
+4 3 1 
+7 0 6 
+5 8 2 
+Search Cost: 135
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 2 
+4 0 8 
+6 7 1 
+Search Cost: 644
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 1 
+7 5 4 
+0 8 2 
+Search Cost: 162
+Solution Depth: 16
+
+Generated Puzzle: 
+1 4 0 
+7 5 6 
+3 8 2 
+Search Cost: 176
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 0 
+4 8 1 
+6 7 5 
+Search Cost: 707
+Solution Depth: 16
+
+Generated Puzzle: 
+3 7 2 
+4 5 8 
+0 1 6 
+Search Cost: 251
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 5 
+7 3 4 
+0 8 6 
+Search Cost: 421
+Solution Depth: 16
+
+Generated Puzzle: 
+1 4 2 
+5 6 3 
+7 8 0 
+Search Cost: 375
+Solution Depth: 16
+
+Generated Puzzle: 
+6 1 2 
+7 3 8 
+4 5 0 
+Search Cost: 527
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 0 
+3 5 6 
+4 7 8 
+Search Cost: 484
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 5 
+8 0 4 
+3 7 6 
+Search Cost: 481
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 1 
+7 2 5 
+0 8 4 
+Search Cost: 262
+Solution Depth: 16
+
+Generated Puzzle: 
+3 1 5 
+8 0 7 
+2 6 4 
+Search Cost: 228
+Solution Depth: 16
+
+Generated Puzzle: 
+6 3 1 
+4 5 8 
+0 7 2 
+Search Cost: 230
+Solution Depth: 16
+
+Generated Puzzle: 
+1 7 0 
+4 2 5 
+3 6 8 
+Search Cost: 509
+Solution Depth: 16
+
+Generated Puzzle: 
+4 3 1 
+8 6 7 
+0 5 2 
+Search Cost: 90
+Solution Depth: 16
+
+Generated Puzzle: 
+0 7 1 
+2 4 5 
+3 6 8 
+Search Cost: 603
+Solution Depth: 16
+
+Generated Puzzle: 
+0 6 4 
+1 8 2 
+7 3 5 
+Search Cost: 198
+Solution Depth: 16
+
+Generated Puzzle: 
+2 6 4 
+1 0 5 
+3 7 8 
+Search Cost: 533
+Solution Depth: 16
+
+Generated Puzzle: 
+1 5 7 
+8 2 4 
+3 6 0 
+Search Cost: 156
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 7 
+4 0 1 
+3 6 8 
+Search Cost: 527
+Solution Depth: 16
+
+Generated Puzzle: 
+2 8 4 
+3 0 1 
+6 7 5 
+Search Cost: 444
+Solution Depth: 16
+
+Generated Puzzle: 
+4 1 2 
+3 0 5 
+6 8 7 
+Search Cost: 1180
+Solution Depth: 16
+
+Generated Puzzle: 
+3 7 2 
+4 0 8 
+1 5 6 
+Search Cost: 306
+Solution Depth: 16
+
+Generated Puzzle: 
+7 2 5 
+1 0 8 
+4 3 6 
+Search Cost: 307
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 6 
+7 1 5 
+0 4 8 
+Search Cost: 273
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 7 
+1 8 4 
+3 6 0 
+Search Cost: 166
+Solution Depth: 16
+
+Generated Puzzle: 
+3 4 5 
+1 2 8 
+0 6 7 
+Search Cost: 527
+Solution Depth: 16
+
+Generated Puzzle: 
+2 5 8 
+4 0 3 
+1 6 7 
+Search Cost: 149
+Solution Depth: 16
+
+Generated Puzzle: 
+4 6 2 
+3 7 5 
+0 1 8 
+Search Cost: 373
+Solution Depth: 16
+
+Generated Puzzle: 
+3 8 0 
+5 6 1 
+4 7 2 
+Search Cost: 105
+Solution Depth: 16
+
+Generated Puzzle: 
+3 5 7 
+4 2 1 
+0 6 8 
+Search Cost: 305
+Solution Depth: 16
+
+Generated Puzzle: 
+1 2 4 
+3 7 8 
+6 5 0 
+Search Cost: 821
+Solution Depth: 16
+
+Generated Puzzle: 
+3 4 0 
+6 1 8 
+7 2 5 
+Search Cost: 378
+Solution Depth: 16
+
+Generated Puzzle: 
+3 2 5 
+7 0 6 
+1 4 8 
+Search Cost: 349
+Solution Depth: 16
+Average Search Cost for 200 cases in Depth 16: 362
+Average Execution Time: 0ms
+
+Depth: 18
+
+Generated Puzzle: 
+6 4 0 
+3 7 2 
+8 1 5 
+Search Cost: 501
+Solution Depth: 18
+
+Generated Puzzle: 
+0 5 8 
+2 4 1 
+6 3 7 
+Search Cost: 465
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 7 
+1 4 5 
+3 6 0 
+Search Cost: 328
+Solution Depth: 18
+
+Generated Puzzle: 
+0 3 2 
+8 4 5 
+1 6 7 
+Search Cost: 951
+Solution Depth: 18
+
+Generated Puzzle: 
+3 1 5 
+4 0 8 
+7 2 6 
+Search Cost: 1279
+Solution Depth: 18
+
+Generated Puzzle: 
+1 5 0 
+8 6 4 
+3 2 7 
+Search Cost: 318
+Solution Depth: 18
+
+Generated Puzzle: 
+5 2 8 
+1 6 7 
+0 3 4 
+Search Cost: 296
+Solution Depth: 18
+
+Generated Puzzle: 
+6 1 4 
+2 0 5 
+3 7 8 
+Search Cost: 1363
+Solution Depth: 18
+
+Generated Puzzle: 
+6 1 0 
+2 4 3 
+7 8 5 
+Search Cost: 535
+Solution Depth: 18
+
+Generated Puzzle: 
+7 4 1 
+6 3 8 
+0 5 2 
+Search Cost: 512
+Solution Depth: 18
+
+Generated Puzzle: 
+6 3 8 
+2 5 1 
+7 4 0 
+Search Cost: 226
+Solution Depth: 18
+
+Generated Puzzle: 
+1 5 0 
+6 2 4 
+8 7 3 
+Search Cost: 568
+Solution Depth: 18
+
+Generated Puzzle: 
+3 1 7 
+4 2 8 
+0 6 5 
+Search Cost: 874
+Solution Depth: 18
+
+Generated Puzzle: 
+5 6 1 
+7 2 4 
+0 3 8 
+Search Cost: 556
+Solution Depth: 18
+
+Generated Puzzle: 
+2 7 5 
+8 0 6 
+1 3 4 
+Search Cost: 175
+Solution Depth: 18
+
+Generated Puzzle: 
+3 2 5 
+6 1 7 
+0 4 8 
+Search Cost: 1089
+Solution Depth: 18
+
+Generated Puzzle: 
+6 1 3 
+7 2 5 
+0 4 8 
+Search Cost: 550
+Solution Depth: 18
+
+Generated Puzzle: 
+0 1 8 
+3 2 6 
+4 7 5 
+Search Cost: 846
+Solution Depth: 18
+
+Generated Puzzle: 
+0 2 8 
+1 7 5 
+3 6 4 
+Search Cost: 786
+Solution Depth: 18
+
+Generated Puzzle: 
+7 1 2 
+3 6 5 
+8 4 0 
+Search Cost: 548
+Solution Depth: 18
+
+Generated Puzzle: 
+1 2 8 
+4 0 7 
+6 5 3 
+Search Cost: 1390
+Solution Depth: 18
+
+Generated Puzzle: 
+7 2 5 
+1 0 8 
+3 6 4 
+Search Cost: 1274
+Solution Depth: 18
+
+Generated Puzzle: 
+7 2 5 
+6 3 8 
+1 4 0 
+Search Cost: 744
+Solution Depth: 18
+
+Generated Puzzle: 
+3 7 1 
+8 2 4 
+6 5 0 
+Search Cost: 808
+Solution Depth: 18
+
+Generated Puzzle: 
+3 6 1 
+4 0 8 
+7 2 5 
+Search Cost: 1128
+Solution Depth: 18
+
+Generated Puzzle: 
+3 4 5 
+1 0 2 
+6 7 8 
+Search Cost: 2689
+Solution Depth: 18
+
+Generated Puzzle: 
+0 8 2 
+3 6 4 
+7 5 1 
+Search Cost: 537
+Solution Depth: 18
+
+Generated Puzzle: 
+0 5 3 
+7 6 2 
+1 4 8 
+Search Cost: 322
+Solution Depth: 18
+
+Generated Puzzle: 
+1 7 2 
+3 6 8 
+5 4 0 
+Search Cost: 904
+Solution Depth: 18
+
+Generated Puzzle: 
+6 3 2 
+4 8 7 
+0 1 5 
+Search Cost: 586
+Solution Depth: 18
+
+Generated Puzzle: 
+6 5 0 
+2 3 4 
+7 8 1 
+Search Cost: 260
+Solution Depth: 18
+
+Generated Puzzle: 
+2 7 5 
+6 0 3 
+1 8 4 
+Search Cost: 316
+Solution Depth: 18
+
+Generated Puzzle: 
+6 5 0 
+2 4 3 
+7 1 8 
+Search Cost: 342
+Solution Depth: 18
+
+Generated Puzzle: 
+5 3 1 
+2 0 8 
+6 4 7 
+Search Cost: 1473
+Solution Depth: 18
+
+Generated Puzzle: 
+6 3 1 
+2 5 8 
+4 7 0 
+Search Cost: 684
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 6 
+1 0 5 
+4 3 7 
+Search Cost: 336
+Solution Depth: 18
+
+Generated Puzzle: 
+0 8 2 
+4 7 5 
+1 3 6 
+Search Cost: 435
+Solution Depth: 18
+
+Generated Puzzle: 
+2 1 3 
+6 8 5 
+0 7 4 
+Search Cost: 565
+Solution Depth: 18
+
+Generated Puzzle: 
+5 1 0 
+3 2 8 
+7 4 6 
+Search Cost: 623
+Solution Depth: 18
+
+Generated Puzzle: 
+2 1 0 
+3 8 4 
+6 5 7 
+Search Cost: 1326
+Solution Depth: 18
+
+Generated Puzzle: 
+3 6 1 
+4 0 2 
+5 8 7 
+Search Cost: 1033
+Solution Depth: 18
+
+Generated Puzzle: 
+7 1 3 
+4 8 2 
+6 5 0 
+Search Cost: 545
+Solution Depth: 18
+
+Generated Puzzle: 
+1 5 6 
+4 0 8 
+3 2 7 
+Search Cost: 529
+Solution Depth: 18
+
+Generated Puzzle: 
+6 3 5 
+8 2 7 
+0 4 1 
+Search Cost: 155
+Solution Depth: 18
+
+Generated Puzzle: 
+2 5 6 
+1 0 8 
+7 3 4 
+Search Cost: 203
+Solution Depth: 18
+
+Generated Puzzle: 
+2 7 5 
+1 0 8 
+6 3 4 
+Search Cost: 915
+Solution Depth: 18
+
+Generated Puzzle: 
+6 2 5 
+3 7 8 
+0 1 4 
+Search Cost: 710
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 0 
+4 5 7 
+1 3 6 
+Search Cost: 147
+Solution Depth: 18
+
+Generated Puzzle: 
+0 3 8 
+6 5 4 
+7 2 1 
+Search Cost: 288
+Solution Depth: 18
+
+Generated Puzzle: 
+5 4 8 
+2 0 7 
+1 3 6 
+Search Cost: 113
+Solution Depth: 18
+
+Generated Puzzle: 
+0 5 7 
+2 4 1 
+3 6 8 
+Search Cost: 720
+Solution Depth: 18
+
+Generated Puzzle: 
+0 8 2 
+4 3 5 
+1 6 7 
+Search Cost: 623
+Solution Depth: 18
+
+Generated Puzzle: 
+4 8 5 
+1 2 7 
+0 3 6 
+Search Cost: 303
+Solution Depth: 18
+
+Generated Puzzle: 
+4 5 3 
+6 0 8 
+2 1 7 
+Search Cost: 181
+Solution Depth: 18
+
+Generated Puzzle: 
+7 3 5 
+4 2 8 
+1 6 0 
+Search Cost: 392
+Solution Depth: 18
+
+Generated Puzzle: 
+6 3 4 
+7 0 5 
+8 1 2 
+Search Cost: 440
+Solution Depth: 18
+
+Generated Puzzle: 
+4 8 3 
+5 0 2 
+6 7 1 
+Search Cost: 352
+Solution Depth: 18
+
+Generated Puzzle: 
+1 5 0 
+3 4 2 
+6 8 7 
+Search Cost: 2177
+Solution Depth: 18
+
+Generated Puzzle: 
+7 5 2 
+1 0 4 
+3 6 8 
+Search Cost: 1662
+Solution Depth: 18
+
+Generated Puzzle: 
+0 6 1 
+7 3 5 
+8 2 4 
+Search Cost: 407
+Solution Depth: 18
+
+Generated Puzzle: 
+2 5 3 
+1 0 8 
+4 6 7 
+Search Cost: 855
+Solution Depth: 18
+
+Generated Puzzle: 
+4 2 1 
+3 7 5 
+0 6 8 
+Search Cost: 1379
+Solution Depth: 18
+
+Generated Puzzle: 
+4 2 0 
+3 1 8 
+5 6 7 
+Search Cost: 588
+Solution Depth: 18
+
+Generated Puzzle: 
+3 7 2 
+1 0 4 
+6 8 5 
+Search Cost: 1680
+Solution Depth: 18
+
+Generated Puzzle: 
+0 8 2 
+1 6 4 
+7 3 5 
+Search Cost: 570
+Solution Depth: 18
+
+Generated Puzzle: 
+2 1 5 
+3 4 8 
+0 7 6 
+Search Cost: 1147
+Solution Depth: 18
+
+Generated Puzzle: 
+4 3 0 
+6 5 1 
+2 7 8 
+Search Cost: 644
+Solution Depth: 18
+
+Generated Puzzle: 
+3 1 0 
+7 8 4 
+5 2 6 
+Search Cost: 294
+Solution Depth: 18
+
+Generated Puzzle: 
+5 3 1 
+8 0 6 
+4 7 2 
+Search Cost: 279
+Solution Depth: 18
+
+Generated Puzzle: 
+4 3 2 
+8 5 7 
+0 6 1 
+Search Cost: 376
+Solution Depth: 18
+
+Generated Puzzle: 
+1 4 6 
+7 0 2 
+3 5 8 
+Search Cost: 895
+Solution Depth: 18
+
+Generated Puzzle: 
+6 1 5 
+3 4 2 
+7 8 0 
+Search Cost: 1289
+Solution Depth: 18
+
+Generated Puzzle: 
+5 4 8 
+2 0 7 
+1 3 6 
+Search Cost: 113
+Solution Depth: 18
+
+Generated Puzzle: 
+1 2 4 
+5 0 8 
+3 7 6 
+Search Cost: 1318
+Solution Depth: 18
+
+Generated Puzzle: 
+3 2 1 
+6 0 5 
+8 4 7 
+Search Cost: 1652
+Solution Depth: 18
+
+Generated Puzzle: 
+3 1 8 
+2 7 5 
+6 4 0 
+Search Cost: 561
+Solution Depth: 18
+
+Generated Puzzle: 
+1 4 7 
+2 0 5 
+6 3 8 
+Search Cost: 779
+Solution Depth: 18
+
+Generated Puzzle: 
+0 5 1 
+3 7 8 
+2 6 4 
+Search Cost: 331
+Solution Depth: 18
+
+Generated Puzzle: 
+5 1 2 
+7 0 8 
+3 4 6 
+Search Cost: 717
+Solution Depth: 18
+
+Generated Puzzle: 
+0 3 1 
+2 5 8 
+7 4 6 
+Search Cost: 583
+Solution Depth: 18
+
+Generated Puzzle: 
+2 4 1 
+3 8 5 
+6 7 0 
+Search Cost: 1304
+Solution Depth: 18
+
+Generated Puzzle: 
+4 1 0 
+6 5 2 
+3 7 8 
+Search Cost: 1781
+Solution Depth: 18
+
+Generated Puzzle: 
+1 7 3 
+2 0 4 
+6 8 5 
+Search Cost: 990
+Solution Depth: 18
+
+Generated Puzzle: 
+3 2 0 
+7 5 8 
+1 4 6 
+Search Cost: 663
+Solution Depth: 18
+
+Generated Puzzle: 
+6 3 1 
+5 0 2 
+8 7 4 
+Search Cost: 900
+Solution Depth: 18
+
+Generated Puzzle: 
+1 7 6 
+4 0 2 
+3 8 5 
+Search Cost: 565
+Solution Depth: 18
+
+Generated Puzzle: 
+4 3 2 
+8 0 7 
+6 5 1 
+Search Cost: 682
+Solution Depth: 18
+
+Generated Puzzle: 
+0 1 2 
+4 6 5 
+7 8 3 
+Search Cost: 680
+Solution Depth: 18
+
+Generated Puzzle: 
+1 5 4 
+6 8 7 
+0 2 3 
+Search Cost: 293
+Solution Depth: 18
+
+Generated Puzzle: 
+2 4 5 
+3 0 6 
+7 1 8 
+Search Cost: 977
+Solution Depth: 18
+
+Generated Puzzle: 
+7 1 0 
+3 4 2 
+8 5 6 
+Search Cost: 437
+Solution Depth: 18
+
+Generated Puzzle: 
+0 4 7 
+1 2 5 
+3 8 6 
+Search Cost: 456
+Solution Depth: 18
+
+Generated Puzzle: 
+7 1 6 
+4 3 2 
+0 8 5 
+Search Cost: 221
+Solution Depth: 18
+
+Generated Puzzle: 
+7 1 4 
+6 0 8 
+3 5 2 
+Search Cost: 525
+Solution Depth: 18
+
+Generated Puzzle: 
+0 5 8 
+3 1 7 
+2 6 4 
+Search Cost: 206
+Solution Depth: 18
+
+Generated Puzzle: 
+4 1 5 
+6 0 2 
+7 3 8 
+Search Cost: 2127
+Solution Depth: 18
+
+Generated Puzzle: 
+2 6 5 
+4 0 8 
+3 1 7 
+Search Cost: 631
+Solution Depth: 18
+
+Generated Puzzle: 
+7 3 5 
+2 1 8 
+0 4 6 
+Search Cost: 226
+Solution Depth: 18
+
+Generated Puzzle: 
+0 2 8 
+3 1 6 
+7 4 5 
+Search Cost: 678
+Solution Depth: 18
+
+Generated Puzzle: 
+3 5 7 
+6 2 1 
+0 8 4 
+Search Cost: 534
+Solution Depth: 18
+
+Generated Puzzle: 
+4 3 2 
+8 0 5 
+1 7 6 
+Search Cost: 824
+Solution Depth: 18
+
+Generated Puzzle: 
+1 2 5 
+8 3 4 
+0 6 7 
+Search Cost: 1301
+Solution Depth: 18
+
+Generated Puzzle: 
+4 8 2 
+6 0 5 
+3 1 7 
+Search Cost: 1101
+Solution Depth: 18
+
+Generated Puzzle: 
+3 6 5 
+1 0 4 
+7 8 2 
+Search Cost: 606
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 5 
+1 0 4 
+3 7 6 
+Search Cost: 678
+Solution Depth: 18
+
+Generated Puzzle: 
+3 2 5 
+8 0 7 
+6 1 4 
+Search Cost: 1065
+Solution Depth: 18
+
+Generated Puzzle: 
+2 4 6 
+1 3 5 
+0 7 8 
+Search Cost: 406
+Solution Depth: 18
+
+Generated Puzzle: 
+3 8 1 
+7 0 2 
+6 4 5 
+Search Cost: 1654
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 5 
+3 0 1 
+6 4 7 
+Search Cost: 1435
+Solution Depth: 18
+
+Generated Puzzle: 
+2 5 0 
+1 8 7 
+6 4 3 
+Search Cost: 384
+Solution Depth: 18
+
+Generated Puzzle: 
+0 3 2 
+4 6 5 
+1 8 7 
+Search Cost: 1006
+Solution Depth: 18
+
+Generated Puzzle: 
+0 3 2 
+8 7 4 
+1 6 5 
+Search Cost: 650
+Solution Depth: 18
+
+Generated Puzzle: 
+2 4 8 
+5 0 1 
+3 6 7 
+Search Cost: 941
+Solution Depth: 18
+
+Generated Puzzle: 
+0 4 2 
+7 1 3 
+5 6 8 
+Search Cost: 554
+Solution Depth: 18
+
+Generated Puzzle: 
+0 2 8 
+4 1 6 
+3 7 5 
+Search Cost: 838
+Solution Depth: 18
+
+Generated Puzzle: 
+3 4 1 
+7 0 2 
+6 5 8 
+Search Cost: 2308
+Solution Depth: 18
+
+Generated Puzzle: 
+4 6 2 
+7 5 8 
+0 3 1 
+Search Cost: 610
+Solution Depth: 18
+
+Generated Puzzle: 
+7 1 4 
+3 0 6 
+8 5 2 
+Search Cost: 351
+Solution Depth: 18
+
+Generated Puzzle: 
+6 2 0 
+4 5 8 
+1 7 3 
+Search Cost: 332
+Solution Depth: 18
+
+Generated Puzzle: 
+1 7 5 
+2 0 8 
+3 6 4 
+Search Cost: 1285
+Solution Depth: 18
+
+Generated Puzzle: 
+5 7 4 
+3 1 8 
+0 2 6 
+Search Cost: 176
+Solution Depth: 18
+
+Generated Puzzle: 
+0 2 8 
+1 3 6 
+4 7 5 
+Search Cost: 683
+Solution Depth: 18
+
+Generated Puzzle: 
+1 6 3 
+4 8 2 
+0 7 5 
+Search Cost: 372
+Solution Depth: 18
+
+Generated Puzzle: 
+1 3 2 
+8 7 5 
+6 4 0 
+Search Cost: 1222
+Solution Depth: 18
+
+Generated Puzzle: 
+4 1 2 
+7 0 6 
+8 3 5 
+Search Cost: 1051
+Solution Depth: 18
+
+Generated Puzzle: 
+1 5 3 
+2 7 4 
+6 8 0 
+Search Cost: 624
+Solution Depth: 18
+
+Generated Puzzle: 
+4 6 2 
+7 1 8 
+5 3 0 
+Search Cost: 353
+Solution Depth: 18
+
+Generated Puzzle: 
+2 3 1 
+5 0 8 
+6 7 4 
+Search Cost: 1120
+Solution Depth: 18
+
+Generated Puzzle: 
+1 4 5 
+3 0 8 
+7 2 6 
+Search Cost: 1074
+Solution Depth: 18
+
+Generated Puzzle: 
+3 6 7 
+8 0 1 
+4 5 2 
+Search Cost: 231
+Solution Depth: 18
+
+Generated Puzzle: 
+5 3 2 
+4 7 8 
+1 6 0 
+Search Cost: 637
+Solution Depth: 18
+
+Generated Puzzle: 
+2 1 4 
+6 3 5 
+7 8 0 
+Search Cost: 1277
+Solution Depth: 18
+
+Generated Puzzle: 
+0 4 8 
+1 5 7 
+3 6 2 
+Search Cost: 601
+Solution Depth: 18
+
+Generated Puzzle: 
+2 6 4 
+1 7 5 
+0 3 8 
+Search Cost: 547
+Solution Depth: 18
+
+Generated Puzzle: 
+0 8 2 
+4 3 5 
+1 6 7 
+Search Cost: 623
+Solution Depth: 18
+
+Generated Puzzle: 
+2 6 4 
+3 1 5 
+0 7 8 
+Search Cost: 746
+Solution Depth: 18
+
+Generated Puzzle: 
+1 4 5 
+3 0 2 
+7 6 8 
+Search Cost: 2663
+Solution Depth: 18
+
+Generated Puzzle: 
+0 7 1 
+4 8 2 
+3 5 6 
+Search Cost: 426
+Solution Depth: 18
+
+Generated Puzzle: 
+7 5 0 
+2 4 8 
+1 3 6 
+Search Cost: 149
+Solution Depth: 18
+
+Generated Puzzle: 
+2 5 7 
+1 4 8 
+6 3 0 
+Search Cost: 565
+Solution Depth: 18
+
+Generated Puzzle: 
+0 2 8 
+1 5 6 
+3 7 4 
+Search Cost: 594
+Solution Depth: 18
+
+Generated Puzzle: 
+1 7 5 
+6 0 3 
+8 2 4 
+Search Cost: 418
+Solution Depth: 18
+
+Generated Puzzle: 
+1 5 8 
+2 0 6 
+3 4 7 
+Search Cost: 635
+Solution Depth: 18
+
+Generated Puzzle: 
+1 5 8 
+2 0 3 
+4 6 7 
+Search Cost: 546
+Solution Depth: 18
+
+Generated Puzzle: 
+3 5 7 
+2 0 1 
+4 6 8 
+Search Cost: 695
+Solution Depth: 18
+
+Generated Puzzle: 
+4 1 0 
+7 8 2 
+3 6 5 
+Search Cost: 1140
+Solution Depth: 18
+
+Generated Puzzle: 
+0 7 1 
+5 3 6 
+4 8 2 
+Search Cost: 180
+Solution Depth: 18
+
+Generated Puzzle: 
+6 5 3 
+4 0 1 
+7 2 8 
+Search Cost: 640
+Solution Depth: 18
+
+Generated Puzzle: 
+3 2 5 
+1 0 4 
+7 6 8 
+Search Cost: 1511
+Solution Depth: 18
+
+Generated Puzzle: 
+6 4 1 
+2 3 5 
+0 7 8 
+Search Cost: 707
+Solution Depth: 18
+
+Generated Puzzle: 
+3 4 8 
+6 2 1 
+7 5 0 
+Search Cost: 702
+Solution Depth: 18
+
+Generated Puzzle: 
+6 4 2 
+8 0 1 
+3 7 5 
+Search Cost: 1340
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 5 
+3 0 4 
+1 6 7 
+Search Cost: 599
+Solution Depth: 18
+
+Generated Puzzle: 
+3 2 6 
+7 0 1 
+5 4 8 
+Search Cost: 589
+Solution Depth: 18
+
+Generated Puzzle: 
+0 3 5 
+6 7 2 
+4 8 1 
+Search Cost: 606
+Solution Depth: 18
+
+Generated Puzzle: 
+0 1 2 
+4 3 5 
+7 6 8 
+Search Cost: 2078
+Solution Depth: 18
+
+Generated Puzzle: 
+0 7 3 
+4 6 2 
+8 1 5 
+Search Cost: 256
+Solution Depth: 18
+
+Generated Puzzle: 
+1 2 7 
+3 0 6 
+4 5 8 
+Search Cost: 625
+Solution Depth: 18
+
+Generated Puzzle: 
+3 1 0 
+4 2 5 
+7 6 8 
+Search Cost: 2086
+Solution Depth: 18
+
+Generated Puzzle: 
+7 3 1 
+5 0 2 
+6 8 4 
+Search Cost: 570
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 4 
+1 3 7 
+0 6 5 
+Search Cost: 307
+Solution Depth: 18
+
+Generated Puzzle: 
+7 4 5 
+2 6 3 
+1 8 0 
+Search Cost: 218
+Solution Depth: 18
+
+Generated Puzzle: 
+1 2 4 
+3 8 7 
+5 6 0 
+Search Cost: 872
+Solution Depth: 18
+
+Generated Puzzle: 
+1 4 2 
+3 0 8 
+7 6 5 
+Search Cost: 2493
+Solution Depth: 18
+
+Generated Puzzle: 
+1 4 6 
+3 0 5 
+7 2 8 
+Search Cost: 548
+Solution Depth: 18
+
+Generated Puzzle: 
+3 7 0 
+8 5 1 
+4 2 6 
+Search Cost: 150
+Solution Depth: 18
+
+Generated Puzzle: 
+3 1 0 
+6 5 4 
+2 7 8 
+Search Cost: 655
+Solution Depth: 18
+
+Generated Puzzle: 
+0 2 1 
+6 3 4 
+7 8 5 
+Search Cost: 1212
+Solution Depth: 18
+
+Generated Puzzle: 
+5 2 8 
+3 0 1 
+6 4 7 
+Search Cost: 801
+Solution Depth: 18
+
+Generated Puzzle: 
+7 6 3 
+8 4 1 
+0 5 2 
+Search Cost: 46
+Solution Depth: 18
+
+Generated Puzzle: 
+3 1 0 
+4 2 8 
+6 7 5 
+Search Cost: 1388
+Solution Depth: 18
+
+Generated Puzzle: 
+6 4 2 
+7 0 3 
+8 5 1 
+Search Cost: 456
+Solution Depth: 18
+
+Generated Puzzle: 
+7 6 2 
+3 0 8 
+4 5 1 
+Search Cost: 587
+Solution Depth: 18
+
+Generated Puzzle: 
+1 4 8 
+6 5 2 
+0 3 7 
+Search Cost: 917
+Solution Depth: 18
+
+Generated Puzzle: 
+2 4 3 
+5 0 8 
+1 6 7 
+Search Cost: 298
+Solution Depth: 18
+
+Generated Puzzle: 
+5 1 4 
+2 0 8 
+3 7 6 
+Search Cost: 550
+Solution Depth: 18
+
+Generated Puzzle: 
+0 1 8 
+5 2 3 
+6 4 7 
+Search Cost: 609
+Solution Depth: 18
+
+Generated Puzzle: 
+7 1 4 
+6 3 2 
+5 8 0 
+Search Cost: 417
+Solution Depth: 18
+
+Generated Puzzle: 
+1 6 4 
+7 3 2 
+5 8 0 
+Search Cost: 540
+Solution Depth: 18
+
+Generated Puzzle: 
+2 5 0 
+1 4 7 
+6 3 8 
+Search Cost: 682
+Solution Depth: 18
+
+Generated Puzzle: 
+0 1 4 
+5 2 7 
+3 6 8 
+Search Cost: 1061
+Solution Depth: 18
+
+Generated Puzzle: 
+7 6 2 
+1 0 5 
+8 3 4 
+Search Cost: 638
+Solution Depth: 18
+
+Generated Puzzle: 
+2 7 5 
+4 8 6 
+1 3 0 
+Search Cost: 257
+Solution Depth: 18
+
+Generated Puzzle: 
+0 6 2 
+4 3 7 
+1 8 5 
+Search Cost: 663
+Solution Depth: 18
+
+Generated Puzzle: 
+4 5 3 
+8 0 1 
+6 7 2 
+Search Cost: 557
+Solution Depth: 18
+
+Generated Puzzle: 
+7 3 0 
+4 2 1 
+8 6 5 
+Search Cost: 445
+Solution Depth: 18
+
+Generated Puzzle: 
+1 2 8 
+5 0 7 
+6 3 4 
+Search Cost: 718
+Solution Depth: 18
+
+Generated Puzzle: 
+3 5 2 
+6 1 8 
+4 7 0 
+Search Cost: 1389
+Solution Depth: 18
+
+Generated Puzzle: 
+4 2 5 
+8 0 1 
+3 6 7 
+Search Cost: 1535
+Solution Depth: 18
+
+Generated Puzzle: 
+5 2 3 
+1 0 8 
+6 4 7 
+Search Cost: 754
+Solution Depth: 18
+
+Generated Puzzle: 
+0 3 2 
+4 8 5 
+7 6 1 
+Search Cost: 588
+Solution Depth: 18
+
+Generated Puzzle: 
+5 2 0 
+4 1 7 
+3 8 6 
+Search Cost: 512
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 0 
+4 5 1 
+6 3 7 
+Search Cost: 922
+Solution Depth: 18
+
+Generated Puzzle: 
+6 3 1 
+7 0 8 
+5 4 2 
+Search Cost: 448
+Solution Depth: 18
+
+Generated Puzzle: 
+6 8 1 
+3 0 2 
+7 4 5 
+Search Cost: 1390
+Solution Depth: 18
+
+Generated Puzzle: 
+5 4 8 
+2 0 3 
+1 6 7 
+Search Cost: 207
+Solution Depth: 18
+
+Generated Puzzle: 
+6 2 4 
+7 0 5 
+8 3 1 
+Search Cost: 361
+Solution Depth: 18
+
+Generated Puzzle: 
+7 1 2 
+3 0 5 
+4 8 6 
+Search Cost: 985
+Solution Depth: 18
+
+Generated Puzzle: 
+2 8 7 
+1 0 5 
+3 4 6 
+Search Cost: 356
+Solution Depth: 18
+
+Generated Puzzle: 
+2 6 3 
+1 0 5 
+7 4 8 
+Search Cost: 538
+Solution Depth: 18
+Average Search Cost for 200 cases in Depth 18: 751
+Average Execution Time: 1ms
+
+Depth: 20
+
+Generated Puzzle: 
+5 3 0 
+4 1 2 
+8 6 7 
+Search Cost: 820
+Solution Depth: 20
+
+Generated Puzzle: 
+3 4 8 
+2 0 7 
+6 5 1 
+Search Cost: 1996
+Solution Depth: 20
+
+Generated Puzzle: 
+5 6 4 
+2 1 8 
+0 3 7 
+Search Cost: 946
+Solution Depth: 20
+
+Generated Puzzle: 
+7 1 0 
+5 8 2 
+3 6 4 
+Search Cost: 1114
+Solution Depth: 20
+
+Generated Puzzle: 
+1 6 4 
+8 3 7 
+0 5 2 
+Search Cost: 622
+Solution Depth: 20
+
+Generated Puzzle: 
+2 4 8 
+1 7 5 
+0 3 6 
+Search Cost: 1055
+Solution Depth: 20
+
+Generated Puzzle: 
+3 5 1 
+6 8 2 
+4 7 0 
+Search Cost: 2500
+Solution Depth: 20
+
+Generated Puzzle: 
+8 2 3 
+4 0 1 
+6 7 5 
+Search Cost: 1110
+Solution Depth: 20
+
+Generated Puzzle: 
+4 5 8 
+6 0 7 
+2 1 3 
+Search Cost: 521
+Solution Depth: 20
+
+Generated Puzzle: 
+5 6 8 
+2 4 7 
+1 3 0 
+Search Cost: 225
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 3 
+7 0 6 
+8 4 2 
+Search Cost: 946
+Solution Depth: 20
+
+Generated Puzzle: 
+3 4 2 
+6 5 7 
+8 1 0 
+Search Cost: 2862
+Solution Depth: 20
+
+Generated Puzzle: 
+3 2 0 
+1 5 8 
+6 4 7 
+Search Cost: 4569
+Solution Depth: 20
+
+Generated Puzzle: 
+0 5 4 
+2 3 1 
+6 8 7 
+Search Cost: 2080
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 6 
+7 0 8 
+4 2 3 
+Search Cost: 671
+Solution Depth: 20
+
+Generated Puzzle: 
+6 7 4 
+3 0 1 
+8 5 2 
+Search Cost: 1459
+Solution Depth: 20
+
+Generated Puzzle: 
+2 3 0 
+6 7 1 
+8 4 5 
+Search Cost: 1425
+Solution Depth: 20
+
+Generated Puzzle: 
+4 6 2 
+1 5 7 
+0 3 8 
+Search Cost: 2285
+Solution Depth: 20
+
+Generated Puzzle: 
+0 4 2 
+7 1 5 
+3 8 6 
+Search Cost: 2401
+Solution Depth: 20
+
+Generated Puzzle: 
+2 6 8 
+1 0 7 
+4 3 5 
+Search Cost: 1251
+Solution Depth: 20
+
+Generated Puzzle: 
+4 2 8 
+5 3 1 
+0 6 7 
+Search Cost: 1587
+Solution Depth: 20
+
+Generated Puzzle: 
+2 8 0 
+3 1 5 
+6 4 7 
+Search Cost: 2288
+Solution Depth: 20
+
+Generated Puzzle: 
+3 4 0 
+6 8 1 
+2 7 5 
+Search Cost: 1128
+Solution Depth: 20
+
+Generated Puzzle: 
+7 6 0 
+1 2 3 
+8 5 4 
+Search Cost: 314
+Solution Depth: 20
+
+Generated Puzzle: 
+0 6 3 
+8 5 1 
+7 4 2 
+Search Cost: 726
+Solution Depth: 20
+
+Generated Puzzle: 
+4 3 7 
+5 6 1 
+0 8 2 
+Search Cost: 735
+Solution Depth: 20
+
+Generated Puzzle: 
+6 4 0 
+7 1 2 
+5 8 3 
+Search Cost: 1113
+Solution Depth: 20
+
+Generated Puzzle: 
+4 5 7 
+6 2 3 
+8 1 0 
+Search Cost: 536
+Solution Depth: 20
+
+Generated Puzzle: 
+0 5 4 
+1 8 6 
+3 2 7 
+Search Cost: 735
+Solution Depth: 20
+
+Generated Puzzle: 
+2 8 7 
+1 0 6 
+3 5 4 
+Search Cost: 1011
+Solution Depth: 20
+
+Generated Puzzle: 
+1 4 3 
+7 0 6 
+5 8 2 
+Search Cost: 557
+Solution Depth: 20
+
+Generated Puzzle: 
+1 4 7 
+6 3 2 
+5 8 0 
+Search Cost: 1574
+Solution Depth: 20
+
+Generated Puzzle: 
+5 1 8 
+2 0 6 
+3 7 4 
+Search Cost: 1147
+Solution Depth: 20
+
+Generated Puzzle: 
+4 3 6 
+8 0 2 
+1 7 5 
+Search Cost: 783
+Solution Depth: 20
+
+Generated Puzzle: 
+7 3 2 
+6 8 5 
+0 4 1 
+Search Cost: 1380
+Solution Depth: 20
+
+Generated Puzzle: 
+4 8 2 
+7 3 5 
+1 6 0 
+Search Cost: 1152
+Solution Depth: 20
+
+Generated Puzzle: 
+4 5 0 
+7 8 2 
+1 6 3 
+Search Cost: 700
+Solution Depth: 20
+
+Generated Puzzle: 
+1 3 4 
+5 8 2 
+6 7 0 
+Search Cost: 1599
+Solution Depth: 20
+
+Generated Puzzle: 
+4 5 0 
+7 2 1 
+3 8 6 
+Search Cost: 1767
+Solution Depth: 20
+
+Generated Puzzle: 
+5 4 8 
+2 3 7 
+0 1 6 
+Search Cost: 253
+Solution Depth: 20
+
+Generated Puzzle: 
+6 1 8 
+2 0 7 
+4 3 5 
+Search Cost: 1630
+Solution Depth: 20
+
+Generated Puzzle: 
+8 3 4 
+6 2 1 
+7 5 0 
+Search Cost: 613
+Solution Depth: 20
+
+Generated Puzzle: 
+7 2 1 
+6 3 5 
+0 8 4 
+Search Cost: 1992
+Solution Depth: 20
+
+Generated Puzzle: 
+7 6 3 
+8 0 1 
+5 4 2 
+Search Cost: 125
+Solution Depth: 20
+
+Generated Puzzle: 
+3 4 5 
+6 7 1 
+0 2 8 
+Search Cost: 2335
+Solution Depth: 20
+
+Generated Puzzle: 
+0 1 3 
+2 8 5 
+6 7 4 
+Search Cost: 1344
+Solution Depth: 20
+
+Generated Puzzle: 
+4 8 1 
+2 0 7 
+3 5 6 
+Search Cost: 1110
+Solution Depth: 20
+
+Generated Puzzle: 
+3 5 4 
+1 0 7 
+6 2 8 
+Search Cost: 2115
+Solution Depth: 20
+
+Generated Puzzle: 
+0 5 8 
+1 3 7 
+2 4 6 
+Search Cost: 599
+Solution Depth: 20
+
+Generated Puzzle: 
+0 4 2 
+1 6 7 
+3 5 8 
+Search Cost: 2884
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 6 
+2 7 8 
+0 3 4 
+Search Cost: 424
+Solution Depth: 20
+
+Generated Puzzle: 
+0 6 3 
+4 7 1 
+8 2 5 
+Search Cost: 652
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 0 
+3 8 4 
+2 7 6 
+Search Cost: 1085
+Solution Depth: 20
+
+Generated Puzzle: 
+2 5 4 
+3 0 8 
+6 7 1 
+Search Cost: 2111
+Solution Depth: 20
+
+Generated Puzzle: 
+3 7 1 
+5 0 2 
+8 6 4 
+Search Cost: 1555
+Solution Depth: 20
+
+Generated Puzzle: 
+7 1 3 
+6 0 4 
+8 5 2 
+Search Cost: 571
+Solution Depth: 20
+
+Generated Puzzle: 
+4 3 2 
+7 1 8 
+0 6 5 
+Search Cost: 2294
+Solution Depth: 20
+
+Generated Puzzle: 
+4 2 6 
+3 0 5 
+7 1 8 
+Search Cost: 2517
+Solution Depth: 20
+
+Generated Puzzle: 
+0 1 2 
+8 7 4 
+3 5 6 
+Search Cost: 1063
+Solution Depth: 20
+
+Generated Puzzle: 
+8 6 1 
+4 0 2 
+7 3 5 
+Search Cost: 2219
+Solution Depth: 20
+
+Generated Puzzle: 
+5 4 8 
+1 0 2 
+7 3 6 
+Search Cost: 1541
+Solution Depth: 20
+
+Generated Puzzle: 
+5 8 0 
+4 2 6 
+1 3 7 
+Search Cost: 324
+Solution Depth: 20
+
+Generated Puzzle: 
+3 6 1 
+4 7 5 
+2 8 0 
+Search Cost: 1813
+Solution Depth: 20
+
+Generated Puzzle: 
+3 2 1 
+4 0 5 
+6 8 7 
+Search Cost: 4255
+Solution Depth: 20
+
+Generated Puzzle: 
+3 1 7 
+2 8 5 
+4 6 0 
+Search Cost: 1084
+Solution Depth: 20
+
+Generated Puzzle: 
+0 1 2 
+8 5 3 
+6 4 7 
+Search Cost: 1440
+Solution Depth: 20
+
+Generated Puzzle: 
+0 1 6 
+3 7 5 
+4 8 2 
+Search Cost: 1007
+Solution Depth: 20
+
+Generated Puzzle: 
+2 5 1 
+6 8 3 
+7 4 0 
+Search Cost: 1056
+Solution Depth: 20
+
+Generated Puzzle: 
+0 4 1 
+3 6 8 
+5 2 7 
+Search Cost: 1300
+Solution Depth: 20
+
+Generated Puzzle: 
+4 2 6 
+8 0 7 
+1 3 5 
+Search Cost: 371
+Solution Depth: 20
+
+Generated Puzzle: 
+4 8 0 
+3 5 7 
+1 2 6 
+Search Cost: 425
+Solution Depth: 20
+
+Generated Puzzle: 
+1 3 8 
+4 5 7 
+0 2 6 
+Search Cost: 321
+Solution Depth: 20
+
+Generated Puzzle: 
+6 4 0 
+5 3 2 
+1 7 8 
+Search Cost: 1062
+Solution Depth: 20
+
+Generated Puzzle: 
+0 7 4 
+6 3 1 
+8 5 2 
+Search Cost: 606
+Solution Depth: 20
+
+Generated Puzzle: 
+6 8 1 
+3 0 2 
+4 5 7 
+Search Cost: 2691
+Solution Depth: 20
+
+Generated Puzzle: 
+6 3 0 
+4 8 5 
+7 2 1 
+Search Cost: 1112
+Solution Depth: 20
+
+Generated Puzzle: 
+4 7 2 
+5 8 1 
+3 6 0 
+Search Cost: 1076
+Solution Depth: 20
+
+Generated Puzzle: 
+7 3 1 
+5 0 4 
+6 2 8 
+Search Cost: 2499
+Solution Depth: 20
+
+Generated Puzzle: 
+4 3 8 
+1 0 7 
+6 5 2 
+Search Cost: 1136
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 8 
+6 4 3 
+2 7 0 
+Search Cost: 725
+Solution Depth: 20
+
+Generated Puzzle: 
+3 5 4 
+7 2 1 
+8 6 0 
+Search Cost: 1045
+Solution Depth: 20
+
+Generated Puzzle: 
+2 1 8 
+6 4 3 
+5 7 0 
+Search Cost: 1290
+Solution Depth: 20
+
+Generated Puzzle: 
+3 6 2 
+8 0 5 
+1 7 4 
+Search Cost: 2371
+Solution Depth: 20
+
+Generated Puzzle: 
+0 2 5 
+6 8 4 
+3 1 7 
+Search Cost: 1253
+Solution Depth: 20
+
+Generated Puzzle: 
+0 1 4 
+3 8 6 
+7 5 2 
+Search Cost: 1237
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 8 
+7 0 2 
+4 6 3 
+Search Cost: 1056
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 0 
+3 6 2 
+8 4 7 
+Search Cost: 2828
+Solution Depth: 20
+
+Generated Puzzle: 
+5 1 8 
+3 7 2 
+6 4 0 
+Search Cost: 1387
+Solution Depth: 20
+
+Generated Puzzle: 
+7 6 0 
+8 3 1 
+4 5 2 
+Search Cost: 327
+Solution Depth: 20
+
+Generated Puzzle: 
+4 6 8 
+1 5 2 
+3 7 0 
+Search Cost: 1089
+Solution Depth: 20
+
+Generated Puzzle: 
+7 6 0 
+4 1 3 
+8 5 2 
+Search Cost: 202
+Solution Depth: 20
+
+Generated Puzzle: 
+0 5 2 
+3 6 8 
+7 4 1 
+Search Cost: 1173
+Solution Depth: 20
+
+Generated Puzzle: 
+2 6 1 
+5 0 8 
+3 4 7 
+Search Cost: 2241
+Solution Depth: 20
+
+Generated Puzzle: 
+1 2 3 
+8 6 7 
+0 4 5 
+Search Cost: 1560
+Solution Depth: 20
+
+Generated Puzzle: 
+4 6 1 
+7 0 5 
+2 3 8 
+Search Cost: 2467
+Solution Depth: 20
+
+Generated Puzzle: 
+6 2 3 
+7 1 8 
+0 4 5 
+Search Cost: 1486
+Solution Depth: 20
+
+Generated Puzzle: 
+7 3 0 
+2 6 1 
+8 4 5 
+Search Cost: 695
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 4 
+2 0 3 
+7 6 8 
+Search Cost: 2396
+Solution Depth: 20
+
+Generated Puzzle: 
+2 5 8 
+4 0 6 
+1 7 3 
+Search Cost: 535
+Solution Depth: 20
+
+Generated Puzzle: 
+6 1 4 
+2 0 8 
+3 5 7 
+Search Cost: 2620
+Solution Depth: 20
+
+Generated Puzzle: 
+2 3 7 
+4 5 8 
+1 6 0 
+Search Cost: 641
+Solution Depth: 20
+
+Generated Puzzle: 
+0 8 6 
+1 5 2 
+3 7 4 
+Search Cost: 974
+Solution Depth: 20
+
+Generated Puzzle: 
+4 5 2 
+7 0 1 
+3 6 8 
+Search Cost: 4644
+Solution Depth: 20
+
+Generated Puzzle: 
+5 8 0 
+4 3 1 
+6 2 7 
+Search Cost: 1260
+Solution Depth: 20
+
+Generated Puzzle: 
+0 4 1 
+6 5 2 
+7 8 3 
+Search Cost: 1711
+Solution Depth: 20
+
+Generated Puzzle: 
+3 7 1 
+8 2 6 
+5 4 0 
+Search Cost: 843
+Solution Depth: 20
+
+Generated Puzzle: 
+6 3 4 
+8 7 5 
+0 1 2 
+Search Cost: 671
+Solution Depth: 20
+
+Generated Puzzle: 
+1 2 8 
+5 6 7 
+4 3 0 
+Search Cost: 1415
+Solution Depth: 20
+
+Generated Puzzle: 
+3 5 7 
+1 0 4 
+2 6 8 
+Search Cost: 1557
+Solution Depth: 20
+
+Generated Puzzle: 
+7 6 3 
+4 1 5 
+0 2 8 
+Search Cost: 537
+Solution Depth: 20
+
+Generated Puzzle: 
+1 7 4 
+6 5 2 
+3 8 0 
+Search Cost: 2030
+Solution Depth: 20
+
+Generated Puzzle: 
+1 4 6 
+2 0 5 
+3 7 8 
+Search Cost: 2062
+Solution Depth: 20
+
+Generated Puzzle: 
+1 3 2 
+4 0 8 
+6 7 5 
+Search Cost: 4096
+Solution Depth: 20
+
+Generated Puzzle: 
+3 1 5 
+7 0 4 
+8 2 6 
+Search Cost: 2277
+Solution Depth: 20
+
+Generated Puzzle: 
+6 3 5 
+4 0 2 
+7 1 8 
+Search Cost: 2645
+Solution Depth: 20
+
+Generated Puzzle: 
+2 3 0 
+1 5 6 
+4 7 8 
+Search Cost: 653
+Solution Depth: 20
+
+Generated Puzzle: 
+2 8 3 
+5 0 7 
+1 6 4 
+Search Cost: 508
+Solution Depth: 20
+
+Generated Puzzle: 
+6 4 0 
+7 5 3 
+8 2 1 
+Search Cost: 192
+Solution Depth: 20
+
+Generated Puzzle: 
+0 2 3 
+1 7 8 
+6 4 5 
+Search Cost: 2004
+Solution Depth: 20
+
+Generated Puzzle: 
+6 2 5 
+3 1 8 
+0 4 7 
+Search Cost: 2360
+Solution Depth: 20
+
+Generated Puzzle: 
+6 1 0 
+5 2 8 
+3 7 4 
+Search Cost: 1884
+Solution Depth: 20
+
+Generated Puzzle: 
+7 6 4 
+3 0 1 
+8 2 5 
+Search Cost: 1228
+Solution Depth: 20
+
+Generated Puzzle: 
+1 2 8 
+7 3 5 
+4 6 0 
+Search Cost: 2476
+Solution Depth: 20
+
+Generated Puzzle: 
+2 5 4 
+3 7 6 
+0 1 8 
+Search Cost: 634
+Solution Depth: 20
+
+Generated Puzzle: 
+7 5 0 
+1 4 2 
+3 6 8 
+Search Cost: 3257
+Solution Depth: 20
+
+Generated Puzzle: 
+4 5 1 
+7 0 2 
+6 3 8 
+Search Cost: 4256
+Solution Depth: 20
+
+Generated Puzzle: 
+8 6 1 
+4 0 2 
+7 3 5 
+Search Cost: 2219
+Solution Depth: 20
+
+Generated Puzzle: 
+1 2 0 
+4 5 7 
+8 3 6 
+Search Cost: 1347
+Solution Depth: 20
+
+Generated Puzzle: 
+0 5 4 
+2 3 7 
+1 8 6 
+Search Cost: 594
+Solution Depth: 20
+
+Generated Puzzle: 
+1 2 3 
+8 0 5 
+7 6 4 
+Search Cost: 1723
+Solution Depth: 20
+
+Generated Puzzle: 
+5 8 4 
+1 0 7 
+2 3 6 
+Search Cost: 289
+Solution Depth: 20
+
+Generated Puzzle: 
+1 8 7 
+5 0 6 
+3 2 4 
+Search Cost: 556
+Solution Depth: 20
+
+Generated Puzzle: 
+3 2 0 
+7 5 1 
+8 6 4 
+Search Cost: 2080
+Solution Depth: 20
+
+Generated Puzzle: 
+7 1 4 
+2 0 5 
+6 3 8 
+Search Cost: 2345
+Solution Depth: 20
+
+Generated Puzzle: 
+6 2 8 
+7 0 1 
+3 5 4 
+Search Cost: 1240
+Solution Depth: 20
+
+Generated Puzzle: 
+5 4 8 
+2 7 6 
+1 3 0 
+Search Cost: 163
+Solution Depth: 20
+
+Generated Puzzle: 
+2 1 5 
+6 8 4 
+0 7 3 
+Search Cost: 1622
+Solution Depth: 20
+
+Generated Puzzle: 
+0 3 5 
+8 2 6 
+7 4 1 
+Search Cost: 589
+Solution Depth: 20
+
+Generated Puzzle: 
+3 4 0 
+8 6 1 
+5 7 2 
+Search Cost: 1009
+Solution Depth: 20
+
+Generated Puzzle: 
+0 1 2 
+3 4 8 
+7 6 5 
+Search Cost: 4225
+Solution Depth: 20
+
+Generated Puzzle: 
+7 2 8 
+3 1 5 
+0 4 6 
+Search Cost: 1166
+Solution Depth: 20
+
+Generated Puzzle: 
+0 2 3 
+1 8 5 
+7 6 4 
+Search Cost: 1169
+Solution Depth: 20
+
+Generated Puzzle: 
+7 4 2 
+3 6 1 
+0 8 5 
+Search Cost: 1954
+Solution Depth: 20
+
+Generated Puzzle: 
+3 2 4 
+1 8 7 
+0 6 5 
+Search Cost: 3262
+Solution Depth: 20
+
+Generated Puzzle: 
+8 5 7 
+2 0 1 
+3 6 4 
+Search Cost: 1029
+Solution Depth: 20
+
+Generated Puzzle: 
+2 1 5 
+6 0 4 
+3 7 8 
+Search Cost: 4052
+Solution Depth: 20
+
+Generated Puzzle: 
+4 7 3 
+6 0 5 
+8 2 1 
+Search Cost: 556
+Solution Depth: 20
+
+Generated Puzzle: 
+5 6 4 
+3 2 8 
+1 7 0 
+Search Cost: 1062
+Solution Depth: 20
+
+Generated Puzzle: 
+6 5 0 
+3 2 8 
+7 4 1 
+Search Cost: 1608
+Solution Depth: 20
+
+Generated Puzzle: 
+5 7 2 
+1 6 8 
+3 4 0 
+Search Cost: 2035
+Solution Depth: 20
+
+Generated Puzzle: 
+3 2 8 
+5 0 7 
+1 6 4 
+Search Cost: 1239
+Solution Depth: 20
+
+Generated Puzzle: 
+3 5 2 
+7 1 4 
+8 6 0 
+Search Cost: 1972
+Solution Depth: 20
+
+Generated Puzzle: 
+3 1 4 
+5 6 8 
+7 2 0 
+Search Cost: 1720
+Solution Depth: 20
+
+Generated Puzzle: 
+1 6 3 
+7 0 2 
+5 8 4 
+Search Cost: 1165
+Solution Depth: 20
+
+Generated Puzzle: 
+2 6 5 
+7 3 4 
+8 1 0 
+Search Cost: 331
+Solution Depth: 20
+
+Generated Puzzle: 
+5 6 2 
+7 3 8 
+0 4 1 
+Search Cost: 1510
+Solution Depth: 20
+
+Generated Puzzle: 
+7 2 8 
+1 0 6 
+3 5 4 
+Search Cost: 1906
+Solution Depth: 20
+
+Generated Puzzle: 
+6 5 4 
+1 0 8 
+2 7 3 
+Search Cost: 316
+Solution Depth: 20
+
+Generated Puzzle: 
+8 3 2 
+6 5 1 
+0 7 4 
+Search Cost: 1426
+Solution Depth: 20
+
+Generated Puzzle: 
+0 2 8 
+5 3 7 
+1 4 6 
+Search Cost: 342
+Solution Depth: 20
+
+Generated Puzzle: 
+0 2 3 
+1 4 5 
+7 8 6 
+Search Cost: 1241
+Solution Depth: 20
+
+Generated Puzzle: 
+6 3 0 
+1 7 4 
+8 5 2 
+Search Cost: 445
+Solution Depth: 20
+
+Generated Puzzle: 
+2 7 0 
+1 8 5 
+6 3 4 
+Search Cost: 1131
+Solution Depth: 20
+
+Generated Puzzle: 
+6 1 0 
+4 5 2 
+3 8 7 
+Search Cost: 3765
+Solution Depth: 20
+
+Generated Puzzle: 
+5 8 0 
+2 3 7 
+6 4 1 
+Search Cost: 589
+Solution Depth: 20
+
+Generated Puzzle: 
+4 2 0 
+3 1 7 
+8 6 5 
+Search Cost: 1975
+Solution Depth: 20
+
+Generated Puzzle: 
+4 2 0 
+7 3 6 
+5 1 8 
+Search Cost: 640
+Solution Depth: 20
+
+Generated Puzzle: 
+8 2 4 
+6 1 3 
+0 7 5 
+Search Cost: 1048
+Solution Depth: 20
+
+Generated Puzzle: 
+6 5 8 
+3 2 4 
+1 7 0 
+Search Cost: 830
+Solution Depth: 20
+
+Generated Puzzle: 
+8 1 4 
+6 3 2 
+7 5 0 
+Search Cost: 1082
+Solution Depth: 20
+
+Generated Puzzle: 
+4 2 6 
+3 0 5 
+7 1 8 
+Search Cost: 2517
+Solution Depth: 20
+
+Generated Puzzle: 
+2 8 4 
+6 0 3 
+1 7 5 
+Search Cost: 1168
+Solution Depth: 20
+
+Generated Puzzle: 
+3 1 5 
+8 0 7 
+4 2 6 
+Search Cost: 1972
+Solution Depth: 20
+
+Generated Puzzle: 
+0 6 4 
+3 5 1 
+7 8 2 
+Search Cost: 1246
+Solution Depth: 20
+
+Generated Puzzle: 
+0 2 8 
+4 3 7 
+5 1 6 
+Search Cost: 427
+Solution Depth: 20
+
+Generated Puzzle: 
+4 5 8 
+2 3 6 
+1 7 0 
+Search Cost: 618
+Solution Depth: 20
+
+Generated Puzzle: 
+1 3 2 
+6 7 4 
+8 5 0 
+Search Cost: 2308
+Solution Depth: 20
+
+Generated Puzzle: 
+6 3 1 
+8 0 5 
+2 7 4 
+Search Cost: 1151
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 0 
+2 3 7 
+4 8 6 
+Search Cost: 631
+Solution Depth: 20
+
+Generated Puzzle: 
+1 5 4 
+3 2 7 
+8 6 0 
+Search Cost: 2082
+Solution Depth: 20
+
+Generated Puzzle: 
+2 4 5 
+7 3 6 
+0 1 8 
+Search Cost: 1165
+Solution Depth: 20
+
+Generated Puzzle: 
+5 7 0 
+4 6 3 
+1 8 2 
+Search Cost: 263
+Solution Depth: 20
+
+Generated Puzzle: 
+7 2 0 
+1 6 4 
+3 8 5 
+Search Cost: 2007
+Solution Depth: 20
+
+Generated Puzzle: 
+5 7 2 
+1 8 4 
+3 6 0 
+Search Cost: 1436
+Solution Depth: 20
+
+Generated Puzzle: 
+4 3 0 
+1 6 5 
+7 8 2 
+Search Cost: 2046
+Solution Depth: 20
+
+Generated Puzzle: 
+3 4 0 
+7 2 1 
+6 5 8 
+Search Cost: 4240
+Solution Depth: 20
+
+Generated Puzzle: 
+3 6 4 
+5 1 2 
+0 7 8 
+Search Cost: 1956
+Solution Depth: 20
+
+Generated Puzzle: 
+3 1 4 
+2 0 5 
+8 7 6 
+Search Cost: 1690
+Solution Depth: 20
+
+Generated Puzzle: 
+7 2 0 
+6 4 5 
+3 1 8 
+Search Cost: 2330
+Solution Depth: 20
+
+Generated Puzzle: 
+8 1 0 
+6 4 2 
+7 5 3 
+Search Cost: 1235
+Solution Depth: 20
+
+Generated Puzzle: 
+5 3 7 
+4 0 2 
+6 1 8 
+Search Cost: 1704
+Solution Depth: 20
+
+Generated Puzzle: 
+3 8 1 
+5 4 7 
+0 6 2 
+Search Cost: 890
+Solution Depth: 20
+
+Generated Puzzle: 
+7 6 3 
+4 2 1 
+5 8 0 
+Search Cost: 246
+Solution Depth: 20
+
+Generated Puzzle: 
+2 1 8 
+6 3 4 
+0 7 5 
+Search Cost: 2309
+Solution Depth: 20
+
+Generated Puzzle: 
+3 2 0 
+7 5 4 
+6 8 1 
+Search Cost: 3402
+Solution Depth: 20
+
+Generated Puzzle: 
+4 5 0 
+2 7 8 
+3 1 6 
+Search Cost: 1038
+Solution Depth: 20
+
+Generated Puzzle: 
+7 4 1 
+3 0 6 
+5 8 2 
+Search Cost: 1092
+Solution Depth: 20
+
+Generated Puzzle: 
+0 4 6 
+7 3 1 
+8 5 2 
+Search Cost: 424
+Solution Depth: 20
+
+Generated Puzzle: 
+0 2 5 
+3 8 1 
+4 7 6 
+Search Cost: 1174
+Solution Depth: 20
+
+Generated Puzzle: 
+2 5 7 
+1 0 6 
+4 8 3 
+Search Cost: 333
+Solution Depth: 20
+Average Search Cost for 200 cases in Depth 20: 1453
+Average Execution Time: 2ms
+
+Process finished with exit code 0
